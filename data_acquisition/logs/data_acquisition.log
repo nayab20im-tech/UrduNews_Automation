@@ -1,0 +1,155 @@
+2026-08-25 07:31:47 | INFO     | data_acquisition.database.raw_news_db | Connected to raw news database at /home/claude/project/UrduNewsAI_DataAcquisition/data_acquisition/data/raw_news.db
+2026-08-25 07:31:47 | INFO     | data_acquisition.database.raw_news_db | Database connection closed (/home/claude/project/UrduNewsAI_DataAcquisition/data_acquisition/data/raw_news.db)
+2026-08-25 07:37:07 | INFO     | data_acquisition.database.raw_news_db | Connected to raw news database at /home/claude/project/UrduNewsAI_DataAcquisition/data_acquisition/data/raw_news.db
+2026-08-25 07:37:07 | INFO     | pipeline.processed_news_db | Connected to processed news database at /home/claude/project/UrduNewsAI_DataAcquisition/data_acquisition/data/raw_news.db
+2026-08-25 07:37:07 | INFO     | pipeline.preprocessing | Preprocessing complete: 52 ok, 0 duplicate, 0 empty, 0 error (of 52)
+2026-08-25 07:37:07 | INFO     | data_acquisition.database.raw_news_db | Database connection closed (/home/claude/project/UrduNewsAI_DataAcquisition/data_acquisition/data/raw_news.db)
+2026-08-25 07:37:07 | INFO     | pipeline.processed_news_db | Processed news database connection closed (/home/claude/project/UrduNewsAI_DataAcquisition/data_acquisition/data/raw_news.db)
+2026-08-25 07:37:19 | INFO     | data_acquisition.database.raw_news_db | Connected to raw news database at /home/claude/project/UrduNewsAI_DataAcquisition/data_acquisition/data/raw_news.db
+2026-08-25 07:37:19 | INFO     | pipeline.processed_news_db | Connected to processed news database at /home/claude/project/UrduNewsAI_DataAcquisition/data_acquisition/data/raw_news.db
+2026-08-25 07:37:19 | INFO     | pipeline.classification | Classification complete for 52 articles
+2026-08-25 07:37:19 | INFO     | data_acquisition.database.raw_news_db | Database connection closed (/home/claude/project/UrduNewsAI_DataAcquisition/data_acquisition/data/raw_news.db)
+2026-08-25 07:37:19 | INFO     | pipeline.processed_news_db | Processed news database connection closed (/home/claude/project/UrduNewsAI_DataAcquisition/data_acquisition/data/raw_news.db)
+2026-08-25 07:37:23 | INFO     | data_acquisition.database.raw_news_db | Connected to raw news database at /home/claude/project/UrduNewsAI_DataAcquisition/data_acquisition/data/raw_news.db
+2026-08-25 07:37:23 | INFO     | pipeline.processed_news_db | Connected to processed news database at /home/claude/project/UrduNewsAI_DataAcquisition/data_acquisition/data/raw_news.db
+2026-08-25 07:37:23 | INFO     | pipeline.duplicate_detection | Duplicate detection complete: 0 groups, 0 marked duplicate (of 52 articles)
+2026-08-25 07:37:23 | INFO     | data_acquisition.database.raw_news_db | Database connection closed (/home/claude/project/UrduNewsAI_DataAcquisition/data_acquisition/data/raw_news.db)
+2026-08-25 07:37:23 | INFO     | pipeline.processed_news_db | Processed news database connection closed (/home/claude/project/UrduNewsAI_DataAcquisition/data_acquisition/data/raw_news.db)
+2026-08-25 07:37:24 | INFO     | data_acquisition.database.raw_news_db | Connected to raw news database at /home/claude/project/UrduNewsAI_DataAcquisition/data_acquisition/data/raw_news.db
+2026-08-25 07:37:24 | INFO     | pipeline.processed_news_db | Connected to processed news database at /home/claude/project/UrduNewsAI_DataAcquisition/data_acquisition/data/raw_news.db
+2026-08-25 07:37:24 | INFO     | pipeline.extraction | Extraction complete for 52 articles
+2026-08-25 07:37:24 | INFO     | data_acquisition.database.raw_news_db | Database connection closed (/home/claude/project/UrduNewsAI_DataAcquisition/data_acquisition/data/raw_news.db)
+2026-08-25 07:37:24 | INFO     | pipeline.processed_news_db | Processed news database connection closed (/home/claude/project/UrduNewsAI_DataAcquisition/data_acquisition/data/raw_news.db)
+2026-08-25 07:37:26 | INFO     | data_acquisition.database.raw_news_db | Connected to raw news database at /home/claude/project/UrduNewsAI_DataAcquisition/data_acquisition/data/raw_news.db
+2026-08-25 07:37:26 | INFO     | pipeline.processed_news_db | Connected to processed news database at /home/claude/project/UrduNewsAI_DataAcquisition/data_acquisition/data/raw_news.db
+2026-08-25 07:37:26 | INFO     | pipeline.summarization | Summarization complete for 52 articles
+2026-08-25 07:37:26 | INFO     | data_acquisition.database.raw_news_db | Database connection closed (/home/claude/project/UrduNewsAI_DataAcquisition/data_acquisition/data/raw_news.db)
+2026-08-25 07:37:26 | INFO     | pipeline.processed_news_db | Processed news database connection closed (/home/claude/project/UrduNewsAI_DataAcquisition/data_acquisition/data/raw_news.db)
+2026-08-25 07:37:29 | INFO     | data_acquisition.database.raw_news_db | Connected to raw news database at /home/claude/project/UrduNewsAI_DataAcquisition/data_acquisition/data/raw_news.db
+2026-08-25 07:37:29 | INFO     | data_acquisition.orchestrator.data_acquisition_orchestrator | Built 1 scraper(s): ['rss_feeds']
+2026-08-25 07:37:29 | ERROR    | RSSScraper[rss_feeds] | Failed to fetch RSS feed 'BBC Urdu' (https://feeds.bbci.co.uk/urdu/rss.xml): Could not fetch feed: 403 Client Error: Forbidden for url: https://feeds.bbci.co.uk/urdu/rss.xml
+2026-08-25 07:37:29 | ERROR    | RSSScraper[rss_feeds] | Failed to fetch RSS feed 'BBC News - World' (https://feeds.bbci.co.uk/news/world/rss.xml): Could not fetch feed: 403 Client Error: Forbidden for url: https://feeds.bbci.co.uk/news/world/rss.xml
+2026-08-25 07:37:30 | ERROR    | RSSScraper[rss_feeds] | Failed to fetch RSS feed 'Dawn.com - Home' (https://www.dawn.com/feeds/home): Could not fetch feed: 403 Client Error: Forbidden for url: https://www.dawn.com/feeds/home
+2026-08-25 07:37:30 | INFO     | data_acquisition.orchestrator.data_acquisition_orchestrator | [rss_feeds] fetched=0 inserted=0 duplicates=0 errors=0 (0.28s)
+2026-08-25 07:37:30 | INFO     | data_acquisition.orchestrator.data_acquisition_orchestrator | Data acquisition run complete: 0 fetched, 0 newly inserted
+2026-08-25 07:37:30 | INFO     | data_acquisition.database.raw_news_db | Database connection closed (/home/claude/project/UrduNewsAI_DataAcquisition/data_acquisition/data/raw_news.db)
+2026-08-25 07:37:31 | INFO     | data_acquisition.database.raw_news_db | Connected to raw news database at /home/claude/project/UrduNewsAI_DataAcquisition/data_acquisition/data/raw_news.db
+2026-08-25 07:37:31 | INFO     | pipeline.processed_news_db | Connected to processed news database at /home/claude/project/UrduNewsAI_DataAcquisition/data_acquisition/data/raw_news.db
+2026-08-25 07:37:31 | INFO     | pipeline.preprocessing | Preprocessing complete: 0 ok, 0 duplicate, 0 empty, 0 error (of 0)
+2026-08-25 07:37:31 | INFO     | pipeline.classification | Classification complete for 0 articles
+2026-08-25 07:37:31 | INFO     | pipeline.extraction | Extraction complete for 0 articles
+2026-08-25 07:37:31 | INFO     | pipeline.summarization | Summarization complete for 0 articles
+2026-08-25 07:37:31 | INFO     | pipeline.orchestrator | Pipeline run complete.
+2026-08-25 07:37:31 | INFO     | pipeline.orchestrator | Exported final processed dataset (0 articles) to /home/claude/project/UrduNewsAI_DataAcquisition/data_acquisition/data/processed_news_export.json
+2026-08-25 07:37:31 | INFO     | data_acquisition.database.raw_news_db | Database connection closed (/home/claude/project/UrduNewsAI_DataAcquisition/data_acquisition/data/raw_news.db)
+2026-08-25 07:37:31 | INFO     | pipeline.processed_news_db | Processed news database connection closed (/home/claude/project/UrduNewsAI_DataAcquisition/data_acquisition/data/raw_news.db)
+2026-08-25 07:37:35 | INFO     | data_acquisition.database.raw_news_db | Connected to raw news database at /home/claude/project/UrduNewsAI_DataAcquisition/data_acquisition/data/raw_news.db
+2026-08-25 07:37:35 | INFO     | data_acquisition.database.raw_news_db | Database connection closed (/home/claude/project/UrduNewsAI_DataAcquisition/data_acquisition/data/raw_news.db)
+2026-08-25 07:37:41 | INFO     | data_acquisition.database.raw_news_db | Connected to raw news database at /home/claude/project/UrduNewsAI_DataAcquisition/data_acquisition/data/raw_news.db
+2026-08-25 07:37:41 | INFO     | data_acquisition.database.raw_news_db | Database connection closed (/home/claude/project/UrduNewsAI_DataAcquisition/data_acquisition/data/raw_news.db)
+2026-08-25 07:37:45 | INFO     | data_acquisition.database.raw_news_db | Connected to raw news database at /home/claude/project/UrduNewsAI_DataAcquisition/data_acquisition/data/raw_news.db
+2026-08-25 07:37:45 | INFO     | pipeline.processed_news_db | Connected to processed news database at /home/claude/project/UrduNewsAI_DataAcquisition/data_acquisition/data/raw_news.db
+2026-08-25 07:37:45 | INFO     | pipeline.preprocessing | Preprocessing complete: 52 ok, 0 duplicate, 0 empty, 0 error (of 52)
+2026-08-25 07:37:45 | INFO     | pipeline.classification | Classification complete for 52 articles
+2026-08-25 07:37:45 | INFO     | pipeline.duplicate_detection | Duplicate detection complete: 0 groups, 0 marked duplicate (of 52 articles)
+2026-08-25 07:37:45 | INFO     | pipeline.extraction | Extraction complete for 52 articles
+2026-08-25 07:37:45 | INFO     | pipeline.summarization | Summarization complete for 52 articles
+2026-08-25 07:37:45 | INFO     | pipeline.orchestrator | Pipeline run complete.
+2026-08-25 07:37:45 | INFO     | pipeline.orchestrator | Exported final processed dataset (52 articles) to /home/claude/project/UrduNewsAI_DataAcquisition/data_acquisition/data/processed_news_export.json
+2026-08-25 07:37:45 | INFO     | data_acquisition.database.raw_news_db | Database connection closed (/home/claude/project/UrduNewsAI_DataAcquisition/data_acquisition/data/raw_news.db)
+2026-08-25 07:37:45 | INFO     | pipeline.processed_news_db | Processed news database connection closed (/home/claude/project/UrduNewsAI_DataAcquisition/data_acquisition/data/raw_news.db)
+2026-08-25 07:38:20 | INFO     | data_acquisition.database.raw_news_db | Connected to raw news database at /home/claude/project/UrduNewsAI_DataAcquisition/data_acquisition/data/raw_news.db
+2026-08-25 07:38:20 | INFO     | pipeline.processed_news_db | Connected to processed news database at /home/claude/project/UrduNewsAI_DataAcquisition/data_acquisition/data/raw_news.db
+2026-08-25 07:38:20 | INFO     | pipeline.extraction | Extraction complete for 52 articles
+2026-08-25 07:38:20 | INFO     | data_acquisition.database.raw_news_db | Database connection closed (/home/claude/project/UrduNewsAI_DataAcquisition/data_acquisition/data/raw_news.db)
+2026-08-25 07:38:20 | INFO     | pipeline.processed_news_db | Processed news database connection closed (/home/claude/project/UrduNewsAI_DataAcquisition/data_acquisition/data/raw_news.db)
+2026-08-25 07:39:04 | INFO     | pipeline.preprocessing | Preprocessing complete: 1 ok, 0 duplicate, 1 empty, 0 error (of 2)
+2026-08-25 07:39:04 | INFO     | pipeline.classification | Classification complete for 2 articles
+2026-08-25 07:39:04 | INFO     | pipeline.duplicate_detection | Duplicate detection complete: 1 groups, 1 marked duplicate (of 3 articles)
+2026-08-25 07:39:04 | INFO     | pipeline.duplicate_detection | Duplicate detection complete: 0 groups, 0 marked duplicate (of 2 articles)
+2026-08-25 07:39:04 | INFO     | pipeline.extraction | Extraction complete for 1 articles
+2026-08-25 07:39:41 | INFO     | pipeline.preprocessing | Preprocessing complete: 1 ok, 0 duplicate, 1 empty, 0 error (of 2)
+2026-08-25 07:39:41 | INFO     | pipeline.classification | Classification complete for 2 articles
+2026-08-25 07:39:41 | INFO     | pipeline.duplicate_detection | Duplicate detection complete: 1 groups, 1 marked duplicate (of 3 articles)
+2026-08-25 07:39:41 | INFO     | pipeline.duplicate_detection | Duplicate detection complete: 0 groups, 0 marked duplicate (of 2 articles)
+2026-08-25 07:39:41 | INFO     | pipeline.extraction | Extraction complete for 1 articles
+2026-08-25 07:39:42 | INFO     | data_acquisition.database.raw_news_db | Connected to raw news database at /tmp/pytest-of-root/pytest-0/test_insert_and_count0/test_raw_news.db
+2026-08-25 07:39:42 | INFO     | data_acquisition.database.raw_news_db | Database connection closed (/tmp/pytest-of-root/pytest-0/test_insert_and_count0/test_raw_news.db)
+2026-08-25 07:39:42 | INFO     | data_acquisition.database.raw_news_db | Connected to raw news database at /tmp/pytest-of-root/pytest-0/test_duplicate_url_is_ignored0/test_raw_news.db
+2026-08-25 07:39:42 | INFO     | data_acquisition.database.raw_news_db | Database connection closed (/tmp/pytest-of-root/pytest-0/test_duplicate_url_is_ignored0/test_raw_news.db)
+2026-08-25 07:39:42 | INFO     | data_acquisition.database.raw_news_db | Connected to raw news database at /tmp/pytest-of-root/pytest-0/test_empty_title_is_rejected0/test_raw_news.db
+2026-08-25 07:39:42 | WARNING  | data_acquisition.database.raw_news_db | Skipping article with empty title (source=s)
+2026-08-25 07:39:42 | INFO     | data_acquisition.database.raw_news_db | Database connection closed (/tmp/pytest-of-root/pytest-0/test_empty_title_is_rejected0/test_raw_news.db)
+2026-08-25 07:39:42 | INFO     | data_acquisition.database.raw_news_db | Connected to raw news database at /tmp/pytest-of-root/pytest-0/test_bulk_insert_stats0/test_raw_news.db
+2026-08-25 07:39:42 | INFO     | data_acquisition.database.raw_news_db | Database connection closed (/tmp/pytest-of-root/pytest-0/test_bulk_insert_stats0/test_raw_news.db)
+2026-08-25 07:39:42 | INFO     | data_acquisition.database.raw_news_db | Connected to raw news database at /tmp/pytest-of-root/pytest-0/test_stats_group_by_source_typ0/test_raw_news.db
+2026-08-25 07:39:42 | INFO     | data_acquisition.database.raw_news_db | Database connection closed (/tmp/pytest-of-root/pytest-0/test_stats_group_by_source_typ0/test_raw_news.db)
+2026-08-25 07:39:42 | INFO     | data_acquisition.database.raw_news_db | Connected to raw news database at /tmp/pytest-of-root/pytest-0/test_export_to_json0/test_raw_news.db
+2026-08-25 07:39:42 | INFO     | data_acquisition.database.raw_news_db | Exported 1 articles to /tmp/pytest-of-root/pytest-0/test_export_to_json0/export.json
+2026-08-25 07:39:42 | INFO     | data_acquisition.database.raw_news_db | Database connection closed (/tmp/pytest-of-root/pytest-0/test_export_to_json0/test_raw_news.db)
+2026-08-25 07:39:42 | INFO     | RSSScraper[rss_feeds] | No RSS feeds configured; skipping.
+2026-08-25 07:39:42 | WARNING  | RSSScraper[rss_feeds] | RSS feed entry 'Bad Feed' has no url, skipping.
+2026-08-25 07:39:42 | INFO     | ManualInputLoader[manual_input] | Loaded 2 article(s) from batch.json
+2026-08-25 07:39:42 | INFO     | ManualInputLoader[manual_input] | Loaded 1 article(s) from batch.csv
+2026-08-25 07:39:42 | INFO     | ManualInputLoader[manual_input] | Loaded 1 article(s) from note.txt
+2026-08-25 07:39:42 | INFO     | ManualInputLoader[manual_input] | No new manual input files found in /tmp/pytest-of-root/pytest-0/test_empty_folder_returns_empt0
+2026-08-25 07:39:48 | INFO     | data_acquisition.database.raw_news_db | Connected to raw news database at /home/claude/project/UrduNewsAI_DataAcquisition/data_acquisition/data/raw_news.db
+2026-08-25 07:39:48 | INFO     | pipeline.processed_news_db | Connected to processed news database at /home/claude/project/UrduNewsAI_DataAcquisition/data_acquisition/data/raw_news.db
+2026-08-25 07:39:48 | INFO     | pipeline.preprocessing | Preprocessing complete: 52 ok, 0 duplicate, 0 empty, 0 error (of 52)
+2026-08-25 07:39:48 | INFO     | pipeline.classification | Classification complete for 52 articles
+2026-08-25 07:39:48 | INFO     | pipeline.duplicate_detection | Duplicate detection complete: 0 groups, 0 marked duplicate (of 52 articles)
+2026-08-25 07:39:49 | INFO     | pipeline.extraction | Extraction complete for 52 articles
+2026-08-25 07:39:49 | INFO     | pipeline.summarization | Summarization complete for 52 articles
+2026-08-25 07:39:49 | INFO     | pipeline.orchestrator | Pipeline run complete.
+2026-08-25 07:39:49 | INFO     | pipeline.orchestrator | Exported final processed dataset (52 articles) to /home/claude/project/UrduNewsAI_DataAcquisition/data_acquisition/data/processed_news_export.json
+2026-08-25 07:39:49 | INFO     | data_acquisition.database.raw_news_db | Database connection closed (/home/claude/project/UrduNewsAI_DataAcquisition/data_acquisition/data/raw_news.db)
+2026-08-25 07:39:49 | INFO     | pipeline.processed_news_db | Processed news database connection closed (/home/claude/project/UrduNewsAI_DataAcquisition/data_acquisition/data/raw_news.db)
+2026-08-25 07:41:05 | INFO     | pipeline.preprocessing | Preprocessing complete: 1 ok, 0 duplicate, 1 empty, 0 error (of 2)
+2026-08-25 07:41:05 | INFO     | pipeline.classification | Classification complete for 2 articles
+2026-08-25 07:41:05 | INFO     | pipeline.duplicate_detection | Duplicate detection complete: 1 groups, 1 marked duplicate (of 3 articles)
+2026-08-25 07:41:05 | INFO     | pipeline.duplicate_detection | Duplicate detection complete: 0 groups, 0 marked duplicate (of 2 articles)
+2026-08-25 07:41:05 | INFO     | pipeline.extraction | Extraction complete for 1 articles
+2026-08-25 07:41:05 | INFO     | data_acquisition.database.raw_news_db | Connected to raw news database at /tmp/pytest-of-root/pytest-1/test_insert_and_count0/test_raw_news.db
+2026-08-25 07:41:05 | INFO     | data_acquisition.database.raw_news_db | Database connection closed (/tmp/pytest-of-root/pytest-1/test_insert_and_count0/test_raw_news.db)
+2026-08-25 07:41:05 | INFO     | data_acquisition.database.raw_news_db | Connected to raw news database at /tmp/pytest-of-root/pytest-1/test_duplicate_url_is_ignored0/test_raw_news.db
+2026-08-25 07:41:05 | INFO     | data_acquisition.database.raw_news_db | Database connection closed (/tmp/pytest-of-root/pytest-1/test_duplicate_url_is_ignored0/test_raw_news.db)
+2026-08-25 07:41:05 | INFO     | data_acquisition.database.raw_news_db | Connected to raw news database at /tmp/pytest-of-root/pytest-1/test_empty_title_is_rejected0/test_raw_news.db
+2026-08-25 07:41:05 | WARNING  | data_acquisition.database.raw_news_db | Skipping article with empty title (source=s)
+2026-08-25 07:41:05 | INFO     | data_acquisition.database.raw_news_db | Database connection closed (/tmp/pytest-of-root/pytest-1/test_empty_title_is_rejected0/test_raw_news.db)
+2026-08-25 07:41:05 | INFO     | data_acquisition.database.raw_news_db | Connected to raw news database at /tmp/pytest-of-root/pytest-1/test_bulk_insert_stats0/test_raw_news.db
+2026-08-25 07:41:05 | INFO     | data_acquisition.database.raw_news_db | Database connection closed (/tmp/pytest-of-root/pytest-1/test_bulk_insert_stats0/test_raw_news.db)
+2026-08-25 07:41:05 | INFO     | data_acquisition.database.raw_news_db | Connected to raw news database at /tmp/pytest-of-root/pytest-1/test_stats_group_by_source_typ0/test_raw_news.db
+2026-08-25 07:41:05 | INFO     | data_acquisition.database.raw_news_db | Database connection closed (/tmp/pytest-of-root/pytest-1/test_stats_group_by_source_typ0/test_raw_news.db)
+2026-08-25 07:41:05 | INFO     | data_acquisition.database.raw_news_db | Connected to raw news database at /tmp/pytest-of-root/pytest-1/test_export_to_json0/test_raw_news.db
+2026-08-25 07:41:05 | INFO     | data_acquisition.database.raw_news_db | Exported 1 articles to /tmp/pytest-of-root/pytest-1/test_export_to_json0/export.json
+2026-08-25 07:41:05 | INFO     | data_acquisition.database.raw_news_db | Database connection closed (/tmp/pytest-of-root/pytest-1/test_export_to_json0/test_raw_news.db)
+2026-08-25 07:41:05 | INFO     | RSSScraper[rss_feeds] | No RSS feeds configured; skipping.
+2026-08-25 07:41:05 | WARNING  | RSSScraper[rss_feeds] | RSS feed entry 'Bad Feed' has no url, skipping.
+2026-08-25 07:41:05 | INFO     | ManualInputLoader[manual_input] | Loaded 2 article(s) from batch.json
+2026-08-25 07:41:05 | INFO     | ManualInputLoader[manual_input] | Loaded 1 article(s) from batch.csv
+2026-08-25 07:41:05 | INFO     | ManualInputLoader[manual_input] | Loaded 1 article(s) from note.txt
+2026-08-25 07:41:05 | INFO     | ManualInputLoader[manual_input] | No new manual input files found in /tmp/pytest-of-root/pytest-1/test_empty_folder_returns_empt0
+2026-08-25 07:41:07 | INFO     | data_acquisition.database.raw_news_db | Connected to raw news database at /home/claude/project/UrduNewsAI_DataAcquisition/data_acquisition/data/raw_news.db
+2026-08-25 07:41:07 | INFO     | pipeline.processed_news_db | Connected to processed news database at /home/claude/project/UrduNewsAI_DataAcquisition/data_acquisition/data/raw_news.db
+2026-08-25 07:41:07 | INFO     | pipeline.preprocessing | Preprocessing complete: 52 ok, 0 duplicate, 0 empty, 0 error (of 52)
+2026-08-25 07:41:07 | INFO     | pipeline.classification | Classification complete for 52 articles
+2026-08-25 07:41:07 | INFO     | pipeline.duplicate_detection | Duplicate detection complete: 0 groups, 0 marked duplicate (of 52 articles)
+2026-08-25 07:41:07 | INFO     | pipeline.extraction | Extraction complete for 52 articles
+2026-08-25 07:41:07 | INFO     | pipeline.summarization | Summarization complete for 52 articles
+2026-08-25 07:41:07 | INFO     | pipeline.orchestrator | Pipeline run complete.
+2026-08-25 07:41:07 | INFO     | pipeline.orchestrator | Exported final processed dataset (52 articles) to /home/claude/project/UrduNewsAI_DataAcquisition/data_acquisition/data/processed_news_export.json
+2026-08-25 07:41:07 | INFO     | data_acquisition.database.raw_news_db | Database connection closed (/home/claude/project/UrduNewsAI_DataAcquisition/data_acquisition/data/raw_news.db)
+2026-08-25 07:41:07 | INFO     | pipeline.processed_news_db | Processed news database connection closed (/home/claude/project/UrduNewsAI_DataAcquisition/data_acquisition/data/raw_news.db)
+2026-08-25 07:41:07 | INFO     | data_acquisition.database.raw_news_db | Connected to raw news database at /home/claude/project/UrduNewsAI_DataAcquisition/data_acquisition/data/raw_news.db
+2026-08-25 07:41:07 | INFO     | data_acquisition.database.raw_news_db | Database connection closed (/home/claude/project/UrduNewsAI_DataAcquisition/data_acquisition/data/raw_news.db)
+2026-08-25 14:37:37 | INFO     | data_acquisition.database.raw_news_db | Connected to raw news database at /home/guest/Documents/Projects/UrduNewsAI_Section2_Pipeline/UrduNewsAI_DataAcquisition/data_acquisition/data/raw_news.db
+2026-08-25 14:37:37 | INFO     | pipeline.processed_news_db | Connected to processed news database at /home/guest/Documents/Projects/UrduNewsAI_Section2_Pipeline/UrduNewsAI_DataAcquisition/data_acquisition/data/raw_news.db
+2026-08-25 14:37:37 | INFO     | pipeline.preprocessing | Preprocessing complete: 0 ok, 0 duplicate, 0 empty, 0 error (of 0)
+2026-08-25 14:37:37 | INFO     | pipeline.classification | Classification complete for 52 articles
+2026-08-25 14:37:38 | INFO     | pipeline.duplicate_detection | Duplicate detection complete: 0 groups, 0 marked duplicate (of 52 articles)
+2026-08-25 14:37:39 | INFO     | pipeline.extraction | Extraction complete for 52 articles
+2026-08-25 14:37:40 | INFO     | pipeline.summarization | Summarization complete for 52 articles
+2026-08-25 14:37:42 | INFO     | pipeline.orchestrator | Pipeline run complete.
+2026-08-25 14:37:42 | INFO     | pipeline.orchestrator | Exported final processed dataset (52 articles) to /home/guest/Documents/Projects/UrduNewsAI_Section2_Pipeline/UrduNewsAI_DataAcquisition/data_acquisition/data/processed_news_export.json
+2026-08-25 14:37:42 | INFO     | data_acquisition.database.raw_news_db | Database connection closed (/home/guest/Documents/Projects/UrduNewsAI_Section2_Pipeline/UrduNewsAI_DataAcquisition/data_acquisition/data/raw_news.db)
+2026-08-25 14:37:42 | INFO     | pipeline.processed_news_db | Processed news database connection closed (/home/guest/Documents/Projects/UrduNewsAI_Section2_Pipeline/UrduNewsAI_DataAcquisition/data_acquisition/data/raw_news.db)

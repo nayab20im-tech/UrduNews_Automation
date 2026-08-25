@@ -1,0 +1,35 @@
+# Core
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+lxml>=5.0.0
+feedparser>=6.0.10
+PyYAML>=6.0.1
+python-dotenv>=1.0.0
+
+# Language detection (optional fallback used by utils/text_utils.py)
+langdetect>=1.0.9
+
+# Google Trends
+# pytrends was archived/unmaintained by its authors on 2025-04-17 and
+# reliably fails against Google's current endpoints (404s / empty data).
+# trendspyg is an actively maintained replacement; its RSS-backed path
+# needs no Selenium/browser and no API key.
+trendspyg>=0.6.1
+
+# Dynamic (JS-rendered) website scraping fallback
+selenium>=4.15.0
+
+# Social media (Twitter/X) collection without official API keys
+snscrape>=0.7.0.20230622
+# Official API fallback (only used if TWITTER_BEARER_TOKEN is set)
+tweepy>=4.14.0
+
+# Testing
+pytest>=8.0.0
+
+# ---------------------------------------------------------------------------
+# Section 2 -- AI Processing Pipeline (preprocessing/classification/
+# duplicate_detection/extraction/summarization; see ../pipeline/README.md)
+# ---------------------------------------------------------------------------
+scikit-learn>=1.4.0   # TF-IDF + cosine similarity (classification, duplicate detection)
+networkx>=3.2          # TextRank sentence ranking (keypoint extraction, summarization)

@@ -1,0 +1,1868 @@
+[
+  {
+    "article_id": 1,
+    "title": "عمران خان کی ہسپتال منتقلی کا معاملہ، تحریکِ انصاف نے توہینِ عدالت کی درخواست دائر کر دی",
+    "source": "rss_feeds",
+    "url": "https://www.bbc.co.uk/urdu/live/c6lyjm89pnjrt?at_medium=RSS&at_campaign=rss",
+    "published_date": null,
+    "language": "ur",
+    "cleaned_text": "پاکستان تحریکِ انصاف (پی ٹی آئی) نے سابق وزیرِ اعظم عمران خان کو ہسپتال منتقل کرنے کے معاملے پر حکومت کے خلاف توہینِ عدالت کی درخواست دائر کر دی ہے۔ درخواست عزیر بھنڈاری اور سلمان اکرم راجہ کی جانب سے دائر کی گئی۔ توہینِ عدالت کی درخواست میں عمران خان کو فوری طور پر شفا انٹرنیشنل ہسپتال اسلام آباد منتقل کرنے کی استدعا کی گئی ہے۔",
+    "preprocessing_status": "ok",
+    "category": "Politics",
+    "classification_confidence": 0.2132,
+    "duplicate_group_id": null,
+    "similarity_score": 0.0,
+    "is_duplicate": 0,
+    "is_primary": 1,
+    "summary": "",
+    "entities": {
+      "PERSON": [],
+      "ORGANIZATION": [],
+      "LOCATION": [
+        "اسلام آباد",
+        "پاکستان"
+      ],
+      "DATE": [],
+      "MONEY": [],
+      "EVENT": []
+    },
+    "keypoints": [
+      "پاکستان تحریکِ انصاف (پی ٹی آئی) نے سابق وزیرِ اعظم عمران خان کو ہسپتال منتقل کرنے کے معاملے پر حکومت کے خلاف توہینِ عدالت کی درخواست دائر کر دی ہے۔",
+      "درخواست عزیر بھنڈاری اور سلمان اکرم راجہ کی جانب سے دائر کی گئی۔",
+      "توہینِ عدالت کی درخواست میں عمران خان کو فوری طور پر شفا انٹرنیشنل ہسپتال اسلام آباد منتقل کرنے کی استدعا کی گئی ہے۔"
+    ],
+    "claims": [],
+    "key_points": [],
+    "bullet_summary": []
+  },
+  {
+    "article_id": 2,
+    "title": "'بابو': وہ ایک لفظ جس نے پولیس کو سکول پرنسپل کے قاتلوں تک پہنچایا",
+    "source": "rss_feeds",
+    "url": "https://www.bbc.com/urdu/articles/ce97k4v8eg2o?at_medium=RSS&at_campaign=rss",
+    "published_date": "Sat, 22 Aug 2026 10:34:55 GMT",
+    "language": "ur",
+    "cleaned_text": "موبائل فون پر سکول کی پرنسپل کی کہی گئی ایک بات اس مقدمے کی گتھی سلجھانے میں کس طرح اہم ثابت ہوئی؟",
+    "preprocessing_status": "ok",
+    "category": "Technology",
+    "classification_confidence": 0.1587,
+    "duplicate_group_id": null,
+    "similarity_score": 0.0,
+    "is_duplicate": 0,
+    "is_primary": 1,
+    "summary": "",
+    "entities": {
+      "PERSON": [],
+      "ORGANIZATION": [],
+      "LOCATION": [],
+      "DATE": [],
+      "MONEY": [],
+      "EVENT": []
+    },
+    "keypoints": [
+      "موبائل فون پر سکول کی پرنسپل کی کہی گئی ایک بات اس مقدمے کی گتھی سلجھانے میں کس طرح اہم ثابت ہوئی؟"
+    ],
+    "claims": [],
+    "key_points": [],
+    "bullet_summary": []
+  },
+  {
+    "article_id": 3,
+    "title": "متحدہ عرب امارات کے تجارتی تعلقات منقطع کرنے کے فیصلے سے ایران کو کتنا نقصان ہوگا اور کیا تہران کے پاس اس کا کوئی متبادل ہے؟",
+    "source": "rss_feeds",
+    "url": "https://www.bbc.com/urdu/articles/cpvwgvm880eo?at_medium=RSS&at_campaign=rss",
+    "published_date": "Sat, 22 Aug 2026 02:48:08 GMT",
+    "language": "ur",
+    "cleaned_text": "ایران اور متحدہ عرب امارات کے درمیان تجارت اور مالی لین دین کا حجم کتنا ہے؟ کیا متحدہ عرب امارات واقعی یہ تعلق ختم کر سکتا ہے؟ اور کیا ایران کے پاس اس کا کوئی متبادل موجود ہے؟",
+    "preprocessing_status": "ok",
+    "category": "International",
+    "classification_confidence": 0.1338,
+    "duplicate_group_id": null,
+    "similarity_score": 0.0,
+    "is_duplicate": 0,
+    "is_primary": 1,
+    "summary": "",
+    "entities": {
+      "PERSON": [],
+      "ORGANIZATION": [],
+      "LOCATION": [
+        "ایران"
+      ],
+      "DATE": [],
+      "MONEY": [],
+      "EVENT": []
+    },
+    "keypoints": [
+      "ایران اور متحدہ عرب امارات کے درمیان تجارت اور مالی لین دین کا حجم کتنا ہے؟",
+      "کیا متحدہ عرب امارات واقعی یہ تعلق ختم کر سکتا ہے؟",
+      "اور کیا ایران کے پاس اس کا کوئی متبادل موجود ہے؟"
+    ],
+    "claims": [],
+    "key_points": [],
+    "bullet_summary": []
+  },
+  {
+    "article_id": 4,
+    "title": "نرسنگ ہومز سے کانگریس تک: امریکی کانگریس کا الیکشن جیتنے والی پہلی افغان خاتون عائشہ وہاب کون ہیں؟",
+    "source": "rss_feeds",
+    "url": "https://www.bbc.com/urdu/articles/c75g25zgledo?at_medium=RSS&at_campaign=rss",
+    "published_date": "Sat, 22 Aug 2026 07:49:45 GMT",
+    "language": "ur",
+    "cleaned_text": "عائشہ وہاب نے کیلیفورنیا سے امریکی کانگریس کا خصوصی ضمنی انتخاب جیت لیا۔ اس طرح وہ امریکی کانگریس تک پہنچنے والی پہلی افغان نژاد امریکی خاتون بن گئی ہیں۔\nدا ټاکنې د کانګرس د ۱۴مې انتخاباتي حوزې څوکۍ لپاره ترسره کېدې او عایشې پکې د خپل دېموکرات ګوند له ملیسه هېرناندز سره سیالي کوله.",
+    "preprocessing_status": "ok",
+    "category": "Others",
+    "classification_confidence": 0.0,
+    "duplicate_group_id": null,
+    "similarity_score": 0.0,
+    "is_duplicate": 0,
+    "is_primary": 1,
+    "summary": "",
+    "entities": {
+      "PERSON": [],
+      "ORGANIZATION": [],
+      "LOCATION": [],
+      "DATE": [],
+      "MONEY": [],
+      "EVENT": []
+    },
+    "keypoints": [
+      "عائشہ وہاب نے کیلیفورنیا سے امریکی کانگریس کا خصوصی ضمنی انتخاب جیت لیا۔",
+      "اس طرح وہ امریکی کانگریس تک پہنچنے والی پہلی افغان نژاد امریکی خاتون بن گئی ہیں۔",
+      "دا ټاکنې د کانګرس د ۱۴مې انتخاباتي حوزې څوکۍ لپاره ترسره کېدې او عایشې پکې د خپل دېموکرات ګوند له ملیسه هېرناندز سره سیالي کوله."
+    ],
+    "claims": [
+      "دا ټاکنې د کانګرس د ۱۴مې انتخاباتي حوزې څوکۍ لپاره ترسره کېدې او عایشې پکې د خپل دېموکرات ګوند له ملیسه هېرناندز سره سیالي کوله."
+    ],
+    "key_points": [],
+    "bullet_summary": []
+  },
+  {
+    "article_id": 5,
+    "title": "وہ کہانی جس نے انسان کے دل سے وہیل کا ڈر ختم کر دیا: 'دولت کی تلاش میں وہیل کے شکار کی اصل وجہ انتقام تھا'",
+    "source": "rss_feeds",
+    "url": "https://www.bbc.com/urdu/articles/cvg72p9z2nvo?at_medium=RSS&at_campaign=rss",
+    "published_date": "Sat, 22 Aug 2026 06:08:24 GMT",
+    "language": "ur",
+    "cleaned_text": "کہانی اسماعیل نامی ایک ملاح کی زبانی بیان کی جاتی ہے، جو دولت اور مہم جوئی کی تلاش میں احاب کے وہیل کے شکار کے سفر میں شامل ہوتا ہے۔ تاہم جہاز پر سوار ہونے کے بعد احاب اس سفر کی اصل وجہ بیان کرتا ہے جو ہے 'انتقام'۔",
+    "preprocessing_status": "ok",
+    "category": "Others",
+    "classification_confidence": 0.0,
+    "duplicate_group_id": null,
+    "similarity_score": 0.0,
+    "is_duplicate": 0,
+    "is_primary": 1,
+    "summary": "",
+    "entities": {
+      "PERSON": [],
+      "ORGANIZATION": [],
+      "LOCATION": [],
+      "DATE": [],
+      "MONEY": [],
+      "EVENT": []
+    },
+    "keypoints": [
+      "کہانی اسماعیل نامی ایک ملاح کی زبانی بیان کی جاتی ہے، جو دولت اور مہم جوئی کی تلاش میں احاب کے وہیل کے شکار کے سفر میں شامل ہوتا ہے۔",
+      "تاہم جہاز پر سوار ہونے کے بعد احاب اس سفر کی اصل وجہ بیان کرتا ہے جو ہے 'انتقام'۔"
+    ],
+    "claims": [
+      "کہانی اسماعیل نامی ایک ملاح کی زبانی بیان کی جاتی ہے، جو دولت اور مہم جوئی کی تلاش میں احاب کے وہیل کے شکار کے سفر میں شامل ہوتا ہے۔"
+    ],
+    "key_points": [],
+    "bullet_summary": []
+  },
+  {
+    "article_id": 6,
+    "title": "جب زیورات کی دکان لوٹنے والے چوروں کو خود ہی موقعے پر پولیس بلوانی پڑی",
+    "source": "rss_feeds",
+    "url": "https://www.bbc.com/urdu/articles/c935rlgqezxo?at_medium=RSS&at_campaign=rss",
+    "published_date": "Sat, 22 Aug 2026 05:01:06 GMT",
+    "language": "ur",
+    "cleaned_text": "پولیس حکام کے مطابق، چوروں کی اطلاع کے بعد پولیس نے انھیں تقریباً 18 ہزار روپے مالیت کے چوری شدہ زیورات اور دیگر قیمتی اشیا سمیت گرفتار کر لیا۔",
+    "preprocessing_status": "ok",
+    "category": "Others",
+    "classification_confidence": 0.0,
+    "duplicate_group_id": null,
+    "similarity_score": 0.0,
+    "is_duplicate": 0,
+    "is_primary": 1,
+    "summary": "",
+    "entities": {
+      "PERSON": [],
+      "ORGANIZATION": [],
+      "LOCATION": [],
+      "DATE": [],
+      "MONEY": [],
+      "EVENT": []
+    },
+    "keypoints": [
+      "پولیس حکام کے مطابق، چوروں کی اطلاع کے بعد پولیس نے انھیں تقریباً 18 ہزار روپے مالیت کے چوری شدہ زیورات اور دیگر قیمتی اشیا سمیت گرفتار کر لیا۔"
+    ],
+    "claims": [
+      "پولیس حکام کے مطابق، چوروں کی اطلاع کے بعد پولیس نے انھیں تقریباً 18 ہزار روپے مالیت کے چوری شدہ زیورات اور دیگر قیمتی اشیا سمیت گرفتار کر لیا۔"
+    ],
+    "key_points": [],
+    "bullet_summary": []
+  },
+  {
+    "article_id": 7,
+    "title": "امریکہ سے 10 ارب ڈالر کے ایکسچینج سٹیبلائزیشن فیسیلٹی ملنے کی امید: کیا اس سے پاکستان کو عالمی مارکیٹ سے قرض حاصل کرنے میں مدد ملے گی؟",
+    "source": "rss_feeds",
+    "url": "https://www.bbc.com/urdu/articles/clylk5gv07yo?at_medium=RSS&at_campaign=rss",
+    "published_date": "Sat, 22 Aug 2026 04:09:34 GMT",
+    "language": "ur",
+    "cleaned_text": "پاکستان کی وفاقی حکومت کا کہنا ہے کہ امریکہ کی جانب سے پاکستان کو 10 ارب ڈالر کے ایکسچینج سٹیبلائزیشن فیسیلٹی (استحکام ایکسچینج سہولت) کے سلسلے میں جلد مثبت پیش رفت کا امکان ہے۔ وفاقی وزیر خزانہ محمد اورنگزیب نے میڈیا سے گفتگو میں واضح کیا کہ امریکہ کی جانب سے پاکستان کو دی جانے والی ای ایس ایف کوئی قرضہ نہیں بلکہ یہ پاکستان کی مستحکم کرنسی کی طرف اشارہ ہے۔",
+    "preprocessing_status": "ok",
+    "category": "Politics",
+    "classification_confidence": 0.114,
+    "duplicate_group_id": null,
+    "similarity_score": 0.0,
+    "is_duplicate": 0,
+    "is_primary": 1,
+    "summary": "",
+    "entities": {
+      "PERSON": [],
+      "ORGANIZATION": [],
+      "LOCATION": [
+        "امریکہ",
+        "پاکستان",
+        "چین"
+      ],
+      "DATE": [],
+      "MONEY": [],
+      "EVENT": []
+    },
+    "keypoints": [
+      "پاکستان کی وفاقی حکومت کا کہنا ہے کہ امریکہ کی جانب سے پاکستان کو 10 ارب ڈالر کے ایکسچینج سٹیبلائزیشن فیسیلٹی (استحکام ایکسچینج سہولت) کے سلسلے میں جلد مثبت پیش رفت کا امکان ہے۔",
+      "وفاقی وزیر خزانہ محمد اورنگزیب نے میڈیا سے گفتگو میں واضح کیا کہ امریکہ کی جانب سے پاکستان کو دی جانے والی ای ایس ایف کوئی قرضہ نہیں بلکہ یہ پاکستان کی مستحکم کرنسی کی طرف اشارہ ہے۔"
+    ],
+    "claims": [
+      "پاکستان کی وفاقی حکومت کا کہنا ہے کہ امریکہ کی جانب سے پاکستان کو 10 ارب ڈالر کے ایکسچینج سٹیبلائزیشن فیسیلٹی (استحکام ایکسچینج سہولت) کے سلسلے میں جلد مثبت پیش رفت کا امکان ہے۔"
+    ],
+    "key_points": [],
+    "bullet_summary": []
+  },
+  {
+    "article_id": 8,
+    "title": "میڈیکل فٹنس رپورٹ اور آنکھوں کا معائنہ: عمران خان کے علاج سے متعلق پمز ہسپتال کے اعلامیے میں کیا ہے؟",
+    "source": "rss_feeds",
+    "url": "https://www.bbc.com/urdu/articles/c0m7dlv1g9xo?at_medium=RSS&at_campaign=rss",
+    "published_date": "Sat, 22 Aug 2026 02:56:20 GMT",
+    "language": "ur",
+    "cleaned_text": "بیان میں کہا گیا ہے کہ طبی معائنے میں شفا انٹرنیشنل ہسپتال کے دو امراضِ چشم کے ماہرین نے عمران خان کی آنکھوں کا معائنہ کیا جبکہ پمز کے سپیشلسٹ ڈاکٹرز نے سابق وزیرِ اعظم کا تفصیلی طبی معائنہ کیا۔",
+    "preprocessing_status": "ok",
+    "category": "Politics",
+    "classification_confidence": 0.1508,
+    "duplicate_group_id": null,
+    "similarity_score": 0.0,
+    "is_duplicate": 0,
+    "is_primary": 1,
+    "summary": "",
+    "entities": {
+      "PERSON": [],
+      "ORGANIZATION": [],
+      "LOCATION": [],
+      "DATE": [],
+      "MONEY": [],
+      "EVENT": []
+    },
+    "keypoints": [
+      "بیان میں کہا گیا ہے کہ طبی معائنے میں شفا انٹرنیشنل ہسپتال کے دو امراضِ چشم کے ماہرین نے عمران خان کی آنکھوں کا معائنہ کیا جبکہ پمز کے سپیشلسٹ ڈاکٹرز نے سابق وزیرِ اعظم کا تفصیلی طبی معائنہ کیا۔"
+    ],
+    "claims": [
+      "بیان میں کہا گیا ہے کہ طبی معائنے میں شفا انٹرنیشنل ہسپتال کے دو امراضِ چشم کے ماہرین نے عمران خان کی آنکھوں کا معائنہ کیا جبکہ پمز کے سپیشلسٹ ڈاکٹرز نے سابق وزیرِ اعظم کا تفصیلی طبی معائنہ کیا۔"
+    ],
+    "key_points": [],
+    "bullet_summary": []
+  },
+  {
+    "article_id": 9,
+    "title": "فٹبال ورلڈ کپ فائنل میں شکست کے بعد جھگڑا: ارجنٹینا پر لاکھوں ڈالر جرمانہ، کھلاڑیوں پر پابندیاں",
+    "source": "rss_feeds",
+    "url": "https://www.bbc.com/urdu/articles/cp8en2ny0rjo?at_medium=RSS&at_campaign=rss",
+    "published_date": "Sat, 22 Aug 2026 02:41:44 GMT",
+    "language": "ur",
+    "cleaned_text": "فیفا نے 19 جولائی کو نیویارک سٹیڈیم میں فائنل سیٹی بجنے کے بعد پیش آنے والے واقعات کی تحقیقات کے لیے ڈسپلنری پراسیکیوٹر مقرر کیا تھا جن میں ارجنٹینا کے کئی کھلاڑی اور کوچنگ سٹاف کے ارکان سپین کے کھلاڑیوں کے ساتھ جھگڑوں میں ملوث ہوئے تھے۔",
+    "preprocessing_status": "ok",
+    "category": "Sports",
+    "classification_confidence": 0.2172,
+    "duplicate_group_id": null,
+    "similarity_score": 0.0,
+    "is_duplicate": 0,
+    "is_primary": 1,
+    "summary": "",
+    "entities": {
+      "PERSON": [],
+      "ORGANIZATION": [],
+      "LOCATION": [],
+      "DATE": [],
+      "MONEY": [],
+      "EVENT": []
+    },
+    "keypoints": [
+      "فیفا نے 19 جولائی کو نیویارک سٹیڈیم میں فائنل سیٹی بجنے کے بعد پیش آنے والے واقعات کی تحقیقات کے لیے ڈسپلنری پراسیکیوٹر مقرر کیا تھا جن میں ارجنٹینا کے کئی کھلاڑی اور کوچنگ سٹاف کے ارکان سپین کے کھلاڑیوں کے ساتھ جھگڑوں میں ملوث ہوئے تھے۔"
+    ],
+    "claims": [
+      "فیفا نے 19 جولائی کو نیویارک سٹیڈیم میں فائنل سیٹی بجنے کے بعد پیش آنے والے واقعات کی تحقیقات کے لیے ڈسپلنری پراسیکیوٹر مقرر کیا تھا جن میں ارجنٹینا کے کئی کھلاڑی اور کوچنگ سٹاف کے ارکان سپین کے کھلاڑیوں کے ساتھ جھگڑوں میں ملوث ہوئے تھے۔"
+    ],
+    "key_points": [],
+    "bullet_summary": []
+  },
+  {
+    "article_id": 10,
+    "title": "لیڈز میں پاکستانی بیٹنگ ایک بار پھر ناکام، انگلینڈ نے ایک اننگز اور 103 رنز سے شکست دے دی",
+    "source": "rss_feeds",
+    "url": "https://www.bbc.com/urdu/articles/cddjvj7r1z0o?at_medium=RSS&at_campaign=rss",
+    "published_date": "Fri, 21 Aug 2026 15:07:08 GMT",
+    "language": "ur",
+    "cleaned_text": "دوسری اننگز میں بھی مہمان ٹیم کا آغاز اچھا نہیں رہا اور پہلی اننگز کی طرح اس کی پہلی وکٹ صفر پر ہی گری۔ آؤٹ ہونے والے بلے باز امام الحق تھے جو دوسری اننگز کے پہلے ہی اوور کی پانچویں گیند پر وکٹ کیپر کو کیچ دے کر پویلین لوٹ گئے۔",
+    "preprocessing_status": "ok",
+    "category": "Sports",
+    "classification_confidence": 0.2061,
+    "duplicate_group_id": null,
+    "similarity_score": 0.0,
+    "is_duplicate": 0,
+    "is_primary": 1,
+    "summary": "",
+    "entities": {
+      "PERSON": [],
+      "ORGANIZATION": [],
+      "LOCATION": [],
+      "DATE": [],
+      "MONEY": [],
+      "EVENT": []
+    },
+    "keypoints": [
+      "دوسری اننگز میں بھی مہمان ٹیم کا آغاز اچھا نہیں رہا اور پہلی اننگز کی طرح اس کی پہلی وکٹ صفر پر ہی گری۔",
+      "آؤٹ ہونے والے بلے باز امام الحق تھے جو دوسری اننگز کے پہلے ہی اوور کی پانچویں گیند پر وکٹ کیپر کو کیچ دے کر پویلین لوٹ گئے۔"
+    ],
+    "claims": [],
+    "key_points": [],
+    "bullet_summary": []
+  },
+  {
+    "article_id": 11,
+    "title": "عمران خان کو شفا ہسپتال نہ لے جانے کا فیصلہ کیا حکومت کے لیے قانونی اور سیاسی مشکلات کا باعث بن سکتا ہے؟",
+    "source": "rss_feeds",
+    "url": "https://www.bbc.com/urdu/articles/czxe9nqe7ego?at_medium=RSS&at_campaign=rss",
+    "published_date": "Fri, 21 Aug 2026 16:10:43 GMT",
+    "language": "ur",
+    "cleaned_text": "سابق وزیر اعظم عمران خان کو سپریم کورٹ کے احکامات کے برخلاف شفا ہسپتال کے بجائے پمز ہسپتال کے جانے کے معاملے پر حکومت اور پاکستان تحریک انصاف کے درمیان پہلے سے موجود سیاسی کشیدگی میں بظاہر مزید اضافہ ہوتا دکھائی دے رہا ہے۔",
+    "preprocessing_status": "ok",
+    "category": "Politics",
+    "classification_confidence": 0.2611,
+    "duplicate_group_id": null,
+    "similarity_score": 0.0,
+    "is_duplicate": 0,
+    "is_primary": 1,
+    "summary": "",
+    "entities": {
+      "PERSON": [],
+      "ORGANIZATION": [],
+      "LOCATION": [
+        "پاکستان"
+      ],
+      "DATE": [],
+      "MONEY": [],
+      "EVENT": []
+    },
+    "keypoints": [
+      "سابق وزیر اعظم عمران خان کو سپریم کورٹ کے احکامات کے برخلاف شفا ہسپتال کے بجائے پمز ہسپتال کے جانے کے معاملے پر حکومت اور پاکستان تحریک انصاف کے درمیان پہلے سے موجود سیاسی کشیدگی میں بظاہر مزید اضافہ ہوتا دکھائی دے رہا ہے۔"
+    ],
+    "claims": [],
+    "key_points": [],
+    "bullet_summary": []
+  },
+  {
+    "article_id": 12,
+    "title": "کم خرچ، زیادہ آمدنی اور بہتر معیارِ زندگی: بیرونِ ملک نئی زندگی شروع کرنے کے لیے بہترین ممالک کون سے ہیں؟",
+    "source": "rss_feeds",
+    "url": "https://www.bbc.com/urdu/articles/ckgdxx1nm21o?at_medium=RSS&at_campaign=rss",
+    "published_date": "Fri, 21 Aug 2026 11:48:07 GMT",
+    "language": "ur",
+    "cleaned_text": "عالمی ریسرچ پروجیکٹ 'انٹر نیشنز' کی جانب سے کروائے گئے سروے نے معیارِ زندگی، نئے ماحول میں گھلنے ملنے میں آسانی، بیرونِ ملک کام کرنے، آمدنی اور رہائش و ڈیجیٹل خدمات جیسی عملی سہولیات کی بنیاد پر 31 مقامات کی درجہ بندی کی ہے۔",
+    "preprocessing_status": "ok",
+    "category": "Others",
+    "classification_confidence": 0.126,
+    "duplicate_group_id": null,
+    "similarity_score": 0.0,
+    "is_duplicate": 0,
+    "is_primary": 1,
+    "summary": "",
+    "entities": {
+      "PERSON": [],
+      "ORGANIZATION": [],
+      "LOCATION": [],
+      "DATE": [],
+      "MONEY": [],
+      "EVENT": []
+    },
+    "keypoints": [
+      "عالمی ریسرچ پروجیکٹ 'انٹر نیشنز' کی جانب سے کروائے گئے سروے نے معیارِ زندگی، نئے ماحول میں گھلنے ملنے میں آسانی، بیرونِ ملک کام کرنے، آمدنی اور رہائش و ڈیجیٹل خدمات جیسی عملی سہولیات کی بنیاد پر 31 مقامات کی درجہ بندی کی ہے۔"
+    ],
+    "claims": [
+      "عالمی ریسرچ پروجیکٹ 'انٹر نیشنز' کی جانب سے کروائے گئے سروے نے معیارِ زندگی، نئے ماحول میں گھلنے ملنے میں آسانی، بیرونِ ملک کام کرنے، آمدنی اور رہائش و ڈیجیٹل خدمات جیسی عملی سہولیات کی بنیاد پر 31 مقامات کی درجہ بندی کی ہے۔"
+    ],
+    "key_points": [],
+    "bullet_summary": []
+  },
+  {
+    "article_id": 13,
+    "title": "ڈاکٹر عظمیٰ کی عمران خان سے ملاقات اور محمد مُرسی کا حوالہ: مصر کے سابق صدر کی موت کن حالات میں ہوئی تھی؟",
+    "source": "rss_feeds",
+    "url": "https://www.bbc.com/urdu/articles/c07r4mljkm0o?at_medium=RSS&at_campaign=rss",
+    "published_date": "Fri, 21 Aug 2026 12:49:46 GMT",
+    "language": "ur",
+    "cleaned_text": "'وہ (عمران خان) بار بار ایک ہی بات کہہ رہے تھے کہ میرے ساتھ ظلم ہوا ہے، مجھ پر ٹارچر ہوا ہے۔ میں اُن (جیل حکام) کو کہتا تھا کہ (محمد) مرسی کو بھی ایسے ہی مارا گیا تھا۔ میں اُن (جیل حکام) کو اپنی صورتحال بتاتا تھا مگر یہ علاج نہیں کرواتے تھے۔ میں نے اُنھیں بتایا کہ مرسی کے ساتھ بھی ایسا ہی کیا گیا تھا۔۔۔'",
+    "preprocessing_status": "ok",
+    "category": "Others",
+    "classification_confidence": 0.0,
+    "duplicate_group_id": null,
+    "similarity_score": 0.0,
+    "is_duplicate": 0,
+    "is_primary": 1,
+    "summary": "",
+    "entities": {
+      "PERSON": [],
+      "ORGANIZATION": [],
+      "LOCATION": [],
+      "DATE": [],
+      "MONEY": [],
+      "EVENT": []
+    },
+    "keypoints": [
+      "میں اُن (جیل حکام) کو کہتا تھا کہ (محمد) مرسی کو بھی ایسے ہی مارا گیا تھا۔",
+      "میں اُن (جیل حکام) کو اپنی صورتحال بتاتا تھا مگر یہ علاج نہیں کرواتے تھے۔",
+      "میں نے اُنھیں بتایا کہ مرسی کے ساتھ بھی ایسا ہی کیا گیا تھا۔۔۔'"
+    ],
+    "claims": [
+      "میں نے اُنھیں بتایا کہ مرسی کے ساتھ بھی ایسا ہی کیا گیا تھا۔۔۔'"
+    ],
+    "key_points": [],
+    "bullet_summary": []
+  },
+  {
+    "article_id": 14,
+    "title": "دفاعی قوت، اخراجات اور ہتھیار: پاکستان، ترکی اور سعودی عرب کی فوجی صلاحیت کے بارے میں ہمیں کیا معلوم ہے؟",
+    "source": "rss_feeds",
+    "url": "https://www.bbc.com/urdu/articles/c3v0q9r043qo?at_medium=RSS&at_campaign=rss",
+    "published_date": "Thu, 20 Aug 2026 03:29:23 GMT",
+    "language": "ur",
+    "cleaned_text": "اِن تینوں ممالک میں سے صرف پاکستان کے پاس اعلانیہ جوہری ہتھیار ہیں۔ جبکہ ترکی صرف نیٹو کے جوہری شراکتی نظام کا حصہ ہے اور سعودی عرب نے 'پُرامن مقاصد کے لیے' حال ہی میں امریکہ کے ساتھ سویلین جوہری پروگرام کے معاہدے پر اتفاق کیا ہے۔ تاہم ٹرمپ نے اس معاملے پر ابراہیمی معاہدوں میں شمولیت اور اسرائیل کو تسلیم کرنے کی شرط رکھی تھی۔",
+    "preprocessing_status": "ok",
+    "category": "International",
+    "classification_confidence": 0.1496,
+    "duplicate_group_id": null,
+    "similarity_score": 0.0,
+    "is_duplicate": 0,
+    "is_primary": 1,
+    "summary": "",
+    "entities": {
+      "PERSON": [],
+      "ORGANIZATION": [],
+      "LOCATION": [
+        "امریکہ",
+        "پاکستان"
+      ],
+      "DATE": [],
+      "MONEY": [],
+      "EVENT": []
+    },
+    "keypoints": [
+      "اِن تینوں ممالک میں سے صرف پاکستان کے پاس اعلانیہ جوہری ہتھیار ہیں۔",
+      "جبکہ ترکی صرف نیٹو کے جوہری شراکتی نظام کا حصہ ہے اور سعودی عرب نے 'پُرامن مقاصد کے لیے' حال ہی میں امریکہ کے ساتھ سویلین جوہری پروگرام کے معاہدے پر اتفاق کیا ہے۔",
+      "تاہم ٹرمپ نے اس معاملے پر ابراہیمی معاہدوں میں شمولیت اور اسرائیل کو تسلیم کرنے کی شرط رکھی تھی۔"
+    ],
+    "claims": [],
+    "key_points": [],
+    "bullet_summary": []
+  },
+  {
+    "article_id": 15,
+    "title": "انڈیا میں دہشت گردی میں ملوث ہونے کا الزام: پاکستانی 'ٹک ٹاکر' شہزاد بھٹی کون ہیں؟",
+    "source": "rss_feeds",
+    "url": "https://www.bbc.com/urdu/articles/c8jndwdk3e8o?at_medium=RSS&at_campaign=rss",
+    "published_date": "Wed, 19 Aug 2026 05:13:13 GMT",
+    "language": "ur",
+    "cleaned_text": "انڈیا کی جانب سے 'شہزاد بھٹی نیٹ ورک' کے خلاف کارروائی اور آئی ایس آئی سے مبینہ روابط کے الزامات لگائے گئے ہیں۔ شہزاد بھٹی ہیں کون اور انڈین حکام ان پر کیا الزام لگاتے آئے ہیں؟",
+    "preprocessing_status": "ok",
+    "category": "Others",
+    "classification_confidence": 0.0,
+    "duplicate_group_id": null,
+    "similarity_score": 0.0,
+    "is_duplicate": 0,
+    "is_primary": 1,
+    "summary": "",
+    "entities": {
+      "PERSON": [],
+      "ORGANIZATION": [],
+      "LOCATION": [],
+      "DATE": [],
+      "MONEY": [],
+      "EVENT": []
+    },
+    "keypoints": [
+      "انڈیا کی جانب سے 'شہزاد بھٹی نیٹ ورک' کے خلاف کارروائی اور آئی ایس آئی سے مبینہ روابط کے الزامات لگائے گئے ہیں۔",
+      "شہزاد بھٹی ہیں کون اور انڈین حکام ان پر کیا الزام لگاتے آئے ہیں؟"
+    ],
+    "claims": [],
+    "key_points": [],
+    "bullet_summary": []
+  },
+  {
+    "article_id": 16,
+    "title": "ٹرمپ نے 'مکہ معاہدے' کی حمایت کیوں کی؟",
+    "source": "rss_feeds",
+    "url": "https://www.bbc.com/urdu/articles/cr590mj4p66o?at_medium=RSS&at_campaign=rss",
+    "published_date": "Tue, 18 Aug 2026 03:17:10 GMT",
+    "language": "ur",
+    "cleaned_text": "امریکی صدر ڈونلڈ ٹرمپ کی جانب سے پاکستان، سعودی عرب اور ترکی کے درمیان مشترکہ دفاعی 'مکہ معاہدے' کا خیرمقدم کیا گیا ہے۔ اس پیغام کے بعد خطے میں سلامتی کے لیے امریکی کردار کا مستقبل کیا ہو گا، اس حوالے سے مختلف آرا پائی جاتی ہیں۔",
+    "preprocessing_status": "ok",
+    "category": "Politics",
+    "classification_confidence": 0.1508,
+    "duplicate_group_id": null,
+    "similarity_score": 0.0,
+    "is_duplicate": 0,
+    "is_primary": 1,
+    "summary": "",
+    "entities": {
+      "PERSON": [],
+      "ORGANIZATION": [],
+      "LOCATION": [
+        "پاکستان"
+      ],
+      "DATE": [],
+      "MONEY": [],
+      "EVENT": []
+    },
+    "keypoints": [
+      "امریکی صدر ڈونلڈ ٹرمپ کی جانب سے پاکستان، سعودی عرب اور ترکی کے درمیان مشترکہ دفاعی 'مکہ معاہدے' کا خیرمقدم کیا گیا ہے۔",
+      "اس پیغام کے بعد خطے میں سلامتی کے لیے امریکی کردار کا مستقبل کیا ہو گا، اس حوالے سے مختلف آرا پائی جاتی ہیں۔"
+    ],
+    "claims": [],
+    "key_points": [],
+    "bullet_summary": []
+  },
+  {
+    "article_id": 17,
+    "title": "انڈیا کے دو ڈاکٹروں کو 'نشان امتیاز' دینے کی سفارش: جناح کی صحت کو 'ہندوستان کا سب سے زیادہ محفوظ راز' کیوں کہا گیا؟",
+    "source": "rss_feeds",
+    "url": "https://www.bbc.com/urdu/articles/ceqeeppd84go?at_medium=RSS&at_campaign=rss",
+    "published_date": "Mon, 17 Aug 2026 05:29:14 GMT",
+    "language": "ur",
+    "cleaned_text": "پاکستان کے وزیرِ منصوبہ بندی احسن اقبال نے اپنی ایک ایکس پوسٹ میں لکھا کہ 'یہ ایک ایسا رازتھا جسے بہت سے مؤرخین بیسویں صدی کے اہم ترین اور تاریخ ساز رازوں میں شمار کرتے ہیں۔' یہ راز اس قدر محفوظ رکھا گیا تھا کہ برطانوی خفیہ سروس بھی اس سے بالکل بے خبر تھی۔'",
+    "preprocessing_status": "ok",
+    "category": "Politics",
+    "classification_confidence": 0.1508,
+    "duplicate_group_id": null,
+    "similarity_score": 0.0,
+    "is_duplicate": 0,
+    "is_primary": 1,
+    "summary": "",
+    "entities": {
+      "PERSON": [],
+      "ORGANIZATION": [],
+      "LOCATION": [
+        "روس",
+        "پاکستان"
+      ],
+      "DATE": [],
+      "MONEY": [],
+      "EVENT": []
+    },
+    "keypoints": [
+      "پاکستان کے وزیرِ منصوبہ بندی احسن اقبال نے اپنی ایک ایکس پوسٹ میں لکھا کہ 'یہ ایک ایسا رازتھا جسے بہت سے مؤرخین بیسویں صدی کے اہم ترین اور تاریخ ساز رازوں میں شمار کرتے ہیں۔' یہ راز اس قدر محفوظ رکھا گیا تھا کہ برطانوی خفیہ سروس بھی اس سے بالکل بے خبر تھی۔'"
+    ],
+    "claims": [],
+    "key_points": [],
+    "bullet_summary": []
+  },
+  {
+    "article_id": 18,
+    "title": "پاکستان میں فوجداری نظامِ انصاف پر عوام کا اعتماد کیوں کم ہوتا جا رہا ہے؟",
+    "source": "rss_feeds",
+    "url": "https://www.bbc.com/urdu/articles/c36dg8zl9pzo?at_medium=RSS&at_campaign=rss",
+    "published_date": "Sat, 22 Aug 2026 10:12:21 GMT",
+    "language": "ur",
+    "cleaned_text": "کیا اصل مسئلہ پاکستان کے کرمنل جسٹس سسٹم، خاص طور پر پولیس اور تفتیش کرنے والے اداروں کے اندر احتساب کی بظاہر کمی ہے؟",
+    "preprocessing_status": "ok",
+    "category": "Others",
+    "classification_confidence": 0.0,
+    "duplicate_group_id": null,
+    "similarity_score": 0.0,
+    "is_duplicate": 0,
+    "is_primary": 1,
+    "summary": "",
+    "entities": {
+      "PERSON": [],
+      "ORGANIZATION": [],
+      "LOCATION": [
+        "پاکستان"
+      ],
+      "DATE": [],
+      "MONEY": [],
+      "EVENT": []
+    },
+    "keypoints": [
+      "کیا اصل مسئلہ پاکستان کے کرمنل جسٹس سسٹم، خاص طور پر پولیس اور تفتیش کرنے والے اداروں کے اندر احتساب کی بظاہر کمی ہے؟"
+    ],
+    "claims": [],
+    "key_points": [],
+    "bullet_summary": []
+  },
+  {
+    "article_id": 19,
+    "title": "کیا مکہ معاہدہ خطے میں امریکہ کے کم ہوتے ہوئے اثرو رسوخ کی علامت ہے؟",
+    "source": "rss_feeds",
+    "url": "https://www.bbc.com/urdu/articles/cdx77ydd0qqo?at_medium=RSS&at_campaign=rss",
+    "published_date": "Sat, 15 Aug 2026 16:26:19 GMT",
+    "language": "ur",
+    "cleaned_text": "پاکستان، سعودی عرب اور ترکی کے درمیان مکہ جوائنٹ ڈیفنس ایگریمنٹ کے تناظر میں ہم نے اِس ہفتے کے سیربین میں یہ سمجھنے کی کوشش کی ہے کہ کیا یہ معاہدہ خطے میں امریکہ کے کم ہوتے ہوئے اثرو رسوخ کی علامت ہے؟ کیا یہ معاہدہ ایران کے خلاف ہے؟ اور اس سے پاکستان کو کیا حاصل ہوگا؟",
+    "preprocessing_status": "ok",
+    "category": "International",
+    "classification_confidence": 0.2007,
+    "duplicate_group_id": null,
+    "similarity_score": 0.0,
+    "is_duplicate": 0,
+    "is_primary": 1,
+    "summary": "",
+    "entities": {
+      "PERSON": [],
+      "ORGANIZATION": [],
+      "LOCATION": [
+        "امریکہ",
+        "ایران",
+        "پاکستان"
+      ],
+      "DATE": [],
+      "MONEY": [],
+      "EVENT": []
+    },
+    "keypoints": [
+      "پاکستان، سعودی عرب اور ترکی کے درمیان مکہ جوائنٹ ڈیفنس ایگریمنٹ کے تناظر میں ہم نے اِس ہفتے کے سیربین میں یہ سمجھنے کی کوشش کی ہے کہ کیا یہ معاہدہ خطے میں امریکہ کے کم ہوتے ہوئے اثرو رسوخ کی علامت ہے؟",
+      "کیا یہ معاہدہ ایران کے خلاف ہے؟",
+      "اور اس سے پاکستان کو کیا حاصل ہوگا؟"
+    ],
+    "claims": [],
+    "key_points": [],
+    "bullet_summary": []
+  },
+  {
+    "article_id": 20,
+    "title": "کشمیری ریاستِ پاکستان سے ناراض کیوں ہیں؟",
+    "source": "rss_feeds",
+    "url": "https://www.bbc.com/urdu/articles/cpd7y9lg295o?at_medium=RSS&at_campaign=rss",
+    "published_date": "Sat, 08 Aug 2026 10:13:39 GMT",
+    "language": "ur",
+    "cleaned_text": "پاکستان کے زیرِ انتظام کشمیر کی مقامی آبادی کی اپنے بنیادی حقوق اور سیاسی نمائندگی کے حوالے سے شکایات کو ریاستِ پاکستان اب تک موثر طریقے سے حل کرنے میں کیوں ناکام رہی ہے؟",
+    "preprocessing_status": "ok",
+    "category": "Politics",
+    "classification_confidence": 0.1508,
+    "duplicate_group_id": null,
+    "similarity_score": 0.0,
+    "is_duplicate": 0,
+    "is_primary": 1,
+    "summary": "",
+    "entities": {
+      "PERSON": [],
+      "ORGANIZATION": [],
+      "LOCATION": [
+        "پاکستان"
+      ],
+      "DATE": [],
+      "MONEY": [],
+      "EVENT": []
+    },
+    "keypoints": [
+      "پاکستان کے زیرِ انتظام کشمیر کی مقامی آبادی کی اپنے بنیادی حقوق اور سیاسی نمائندگی کے حوالے سے شکایات کو ریاستِ پاکستان اب تک موثر طریقے سے حل کرنے میں کیوں ناکام رہی ہے؟"
+    ],
+    "claims": [],
+    "key_points": [],
+    "bullet_summary": []
+  },
+  {
+    "article_id": 21,
+    "title": "کیا کاکروچ جنتا پارٹی انڈیا کی سیاست کو بدل سکتی ہے؟",
+    "source": "rss_feeds",
+    "url": "https://www.bbc.com/urdu/articles/cedjv382544o?at_medium=RSS&at_campaign=rss",
+    "published_date": "Sat, 01 Aug 2026 13:30:26 GMT",
+    "language": "ur",
+    "cleaned_text": "انڈیا میں نوجوانوں کے حالیہ احتجاج نے حکومت کو گھٹنے ٹیکنے پر مجبور کر دیا۔ اس ہفتے سیربین میں ہم نے جائزہ لیا کہ نوجوانوں کی تحریک کاکروچ جنتا پارٹی مودی حکومت کے لیے کتنا خطرہ ہے",
+    "preprocessing_status": "ok",
+    "category": "Politics",
+    "classification_confidence": 0.2023,
+    "duplicate_group_id": null,
+    "similarity_score": 0.0,
+    "is_duplicate": 0,
+    "is_primary": 1,
+    "summary": "",
+    "entities": {
+      "PERSON": [],
+      "ORGANIZATION": [],
+      "LOCATION": [],
+      "DATE": [],
+      "MONEY": [],
+      "EVENT": []
+    },
+    "keypoints": [
+      "انڈیا میں نوجوانوں کے حالیہ احتجاج نے حکومت کو گھٹنے ٹیکنے پر مجبور کر دیا۔",
+      "اس ہفتے سیربین میں ہم نے جائزہ لیا کہ نوجوانوں کی تحریک کاکروچ جنتا پارٹی مودی حکومت کے لیے کتنا خطرہ ہے"
+    ],
+    "claims": [],
+    "key_points": [],
+    "bullet_summary": []
+  },
+  {
+    "article_id": 22,
+    "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
+    "source": "rss_feeds",
+    "url": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss",
+    "published_date": "Sat, 22 Aug 2026 04:46:33 GMT",
+    "language": "en",
+    "cleaned_text": "A new 50% levy on 20bn of Canadian imports comes into force after a last-minute breakdown in trade talks.",
+    "preprocessing_status": "ok",
+    "category": "Business",
+    "classification_confidence": 0.1479,
+    "duplicate_group_id": null,
+    "similarity_score": 0.0,
+    "is_duplicate": 0,
+    "is_primary": 1,
+    "summary": "A new 50% levy on 20bn of Canadian imports comes into force after a last-minute breakdown in trade talks.",
+    "entities": {
+      "PERSON": [],
+      "ORGANIZATION": [],
+      "LOCATION": [],
+      "DATE": [],
+      "MONEY": [],
+      "EVENT": []
+    },
+    "keypoints": [
+      "A new 50% levy on 20bn of Canadian imports comes into force after a last-minute breakdown in trade talks."
+    ],
+    "claims": [
+      "A new 50% levy on 20bn of Canadian imports comes into force after a last-minute breakdown in trade talks."
+    ],
+    "key_points": [
+      "A new 50% levy on 20bn of Canadian imports comes into force after a last-minute breakdown in trade talks."
+    ],
+    "bullet_summary": [
+      "A new 50% levy on 20bn of Canadian imports comes into force after a last-minute breakdown in trade talks."
+    ]
+  },
+  {
+    "article_id": 23,
+    "title": "TikTok to pay 400m to US in one of largest child privacy settlements",
+    "source": "rss_feeds",
+    "url": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss",
+    "published_date": "Fri, 21 Aug 2026 22:36:12 GMT",
+    "language": "en",
+    "cleaned_text": "The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDance collected \"vast amounts of data\" on millions of users under the age of 13.",
+    "preprocessing_status": "ok",
+    "category": "Technology",
+    "classification_confidence": 0.1122,
+    "duplicate_group_id": null,
+    "similarity_score": 0.0,
+    "is_duplicate": 0,
+    "is_primary": 1,
+    "summary": "The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDance collected \"vast amounts of data\" on millions of users under the age of 13.",
+    "entities": {
+      "PERSON": [],
+      "ORGANIZATION": [],
+      "LOCATION": [],
+      "DATE": [],
+      "MONEY": [],
+      "EVENT": []
+    },
+    "keypoints": [
+      "The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDance collected \"vast amounts of data\" on millions of users under the age of 13."
+    ],
+    "claims": [
+      "The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDance collected \"vast amounts of data\" on millions of users under the age of 13."
+    ],
+    "key_points": [
+      "The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDance collected \"vast amounts of data\" on millions of users under the age of 13."
+    ],
+    "bullet_summary": [
+      "The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDance collected \"vast amounts of data\" on millions of users under the age of 13."
+    ]
+  },
+  {
+    "article_id": 24,
+    "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
+    "source": "rss_feeds",
+    "url": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
+    "published_date": "Fri, 21 Aug 2026 05:00:57 GMT",
+    "language": "en",
+    "cleaned_text": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearful.",
+    "preprocessing_status": "ok",
+    "category": "Politics",
+    "classification_confidence": 0.1508,
+    "duplicate_group_id": null,
+    "similarity_score": 0.0,
+    "is_duplicate": 0,
+    "is_primary": 1,
+    "summary": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearful.",
+    "entities": {
+      "PERSON": [],
+      "ORGANIZATION": [],
+      "LOCATION": [
+        "Israel"
+      ],
+      "DATE": [],
+      "MONEY": [],
+      "EVENT": []
+    },
+    "keypoints": [
+      "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearful."
+    ],
+    "claims": [
+      "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearful."
+    ],
+    "key_points": [
+      "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearful."
+    ],
+    "bullet_summary": [
+      "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearful."
+    ]
+  },
+  {
+    "article_id": 25,
+    "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' strike",
+    "source": "rss_feeds",
+    "url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
+    "published_date": "Sat, 22 Aug 2026 10:01:22 GMT",
+    "language": "en",
+    "cleaned_text": "Nine people are still missing after the attack which left 130 injured, including a number of children.",
+    "preprocessing_status": "ok",
+    "category": "Others",
+    "classification_confidence": 0.0,
+    "duplicate_group_id": null,
+    "similarity_score": 0.0,
+    "is_duplicate": 0,
+    "is_primary": 1,
+    "summary": "Nine people are still missing after the attack which left 130 injured, including a number of children.",
+    "entities": {
+      "PERSON": [],
+      "ORGANIZATION": [],
+      "LOCATION": [],
+      "DATE": [],
+      "MONEY": [],
+      "EVENT": []
+    },
+    "keypoints": [
+      "Nine people are still missing after the attack which left 130 injured, including a number of children."
+    ],
+    "claims": [
+      "Nine people are still missing after the attack which left 130 injured, including a number of children."
+    ],
+    "key_points": [
+      "Nine people are still missing after the attack which left 130 injured, including a number of children."
+    ],
+    "bullet_summary": [
+      "Nine people are still missing after the attack which left 130 injured, including a number of children."
+    ]
+  },
+  {
+    "article_id": 26,
+    "title": "One killed in sword attack at Swedish school",
+    "source": "rss_feeds",
+    "url": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss",
+    "published_date": "Fri, 21 Aug 2026 21:03:24 GMT",
+    "language": "en",
+    "cleaned_text": "Officials say another three people were injured, and an 18-year-old male suspect shot and arrested.",
+    "preprocessing_status": "ok",
+    "category": "Others",
+    "classification_confidence": 0.0,
+    "duplicate_group_id": null,
+    "similarity_score": 0.0,
+    "is_duplicate": 0,
+    "is_primary": 1,
+    "summary": "Officials say another three people were injured, and an 18-year-old male suspect shot and arrested.",
+    "entities": {
+      "PERSON": [],
+      "ORGANIZATION": [],
+      "LOCATION": [],
+      "DATE": [],
+      "MONEY": [],
+      "EVENT": []
+    },
+    "keypoints": [
+      "Officials say another three people were injured, and an 18-year-old male suspect shot and arrested."
+    ],
+    "claims": [
+      "Officials say another three people were injured, and an 18-year-old male suspect shot and arrested."
+    ],
+    "key_points": [
+      "Officials say another three people were injured, and an 18-year-old male suspect shot and arrested."
+    ],
+    "bullet_summary": [
+      "Officials say another three people were injured, and an 18-year-old male suspect shot and arrested."
+    ]
+  },
+  {
+    "article_id": 27,
+    "title": "Father leaves 7-year-old son alone on Mount Fuji to continue hike, reports say",
+    "source": "rss_feeds",
+    "url": "https://www.bbc.co.uk/news/articles/c93403wg288o?at_medium=RSS&at_campaign=rss",
+    "published_date": "Sat, 22 Aug 2026 08:40:49 GMT",
+    "language": "en",
+    "cleaned_text": "The man had taken his two boys on the trip but is said to have left one behind when he got tired.",
+    "preprocessing_status": "ok",
+    "category": "Others",
+    "classification_confidence": 0.0,
+    "duplicate_group_id": null,
+    "similarity_score": 0.0,
+    "is_duplicate": 0,
+    "is_primary": 1,
+    "summary": "The man had taken his two boys on the trip but is said to have left one behind when he got tired.",
+    "entities": {
+      "PERSON": [],
+      "ORGANIZATION": [],
+      "LOCATION": [],
+      "DATE": [],
+      "MONEY": [],
+      "EVENT": []
+    },
+    "keypoints": [
+      "The man had taken his two boys on the trip but is said to have left one behind when he got tired."
+    ],
+    "claims": [
+      "The man had taken his two boys on the trip but is said to have left one behind when he got tired."
+    ],
+    "key_points": [
+      "The man had taken his two boys on the trip but is said to have left one behind when he got tired."
+    ],
+    "bullet_summary": [
+      "The man had taken his two boys on the trip but is said to have left one behind when he got tired."
+    ]
+  },
+  {
+    "article_id": 28,
+    "title": "Lindsay Clancy suffering 'command hallucination' when she killed children, court hears",
+    "source": "rss_feeds",
+    "url": "https://www.bbc.co.uk/news/articles/c62xpre63j2o?at_medium=RSS&at_campaign=rss",
+    "published_date": "Sat, 22 Aug 2026 03:43:26 GMT",
+    "language": "en",
+    "cleaned_text": "The defence brought their final witness - a forensic psychiatrist - to the stand to testify about the effects of postpartum psychosis.",
+    "preprocessing_status": "ok",
+    "category": "Sports",
+    "classification_confidence": 0.1536,
+    "duplicate_group_id": null,
+    "similarity_score": 0.0,
+    "is_duplicate": 0,
+    "is_primary": 1,
+    "summary": "The defence brought their final witness - a forensic psychiatrist - to the stand to testify about the effects of postpartum psychosis.",
+    "entities": {
+      "PERSON": [],
+      "ORGANIZATION": [],
+      "LOCATION": [],
+      "DATE": [],
+      "MONEY": [],
+      "EVENT": []
+    },
+    "keypoints": [
+      "The defence brought their final witness - a forensic psychiatrist - to the stand to testify about the effects of postpartum psychosis."
+    ],
+    "claims": [],
+    "key_points": [
+      "The defence brought their final witness - a forensic psychiatrist - to the stand to testify about the effects of postpartum psychosis."
+    ],
+    "bullet_summary": [
+      "The defence brought their final witness - a forensic psychiatrist - to the stand to testify about the effects of postpartum psychosis."
+    ]
+  },
+  {
+    "article_id": 29,
+    "title": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
+    "source": "rss_feeds",
+    "url": "https://www.bbc.co.uk/news/articles/cvgl2pe09eno?at_medium=RSS&at_campaign=rss",
+    "published_date": "Fri, 21 Aug 2026 15:58:57 GMT",
+    "language": "en",
+    "cleaned_text": "Seven World Central Kitchen workers were killed in the Israeli strike on their convoy in 2024.",
+    "preprocessing_status": "ok",
+    "category": "Sports",
+    "classification_confidence": 0.1275,
+    "duplicate_group_id": null,
+    "similarity_score": 0.0,
+    "is_duplicate": 0,
+    "is_primary": 1,
+    "summary": "Seven World Central Kitchen workers were killed in the Israeli strike on their convoy in 2024.",
+    "entities": {
+      "PERSON": [],
+      "ORGANIZATION": [],
+      "LOCATION": [
+        "Israel"
+      ],
+      "DATE": [],
+      "MONEY": [],
+      "EVENT": []
+    },
+    "keypoints": [
+      "Seven World Central Kitchen workers were killed in the Israeli strike on their convoy in 2024."
+    ],
+    "claims": [
+      "Seven World Central Kitchen workers were killed in the Israeli strike on their convoy in 2024."
+    ],
+    "key_points": [
+      "Seven World Central Kitchen workers were killed in the Israeli strike on their convoy in 2024."
+    ],
+    "bullet_summary": [
+      "Seven World Central Kitchen workers were killed in the Israeli strike on their convoy in 2024."
+    ]
+  },
+  {
+    "article_id": 30,
+    "title": "Sydney Marathon medal mistakenly depicts Munich stadium",
+    "source": "rss_feeds",
+    "url": "https://www.bbc.co.uk/news/articles/cvg92y1wzn8o?at_medium=RSS&at_campaign=rss",
+    "published_date": "Sat, 22 Aug 2026 07:53:57 GMT",
+    "language": "en",
+    "cleaned_text": "Online sleuths detected the error after Sydney Marathon unveiled the double-sided medal.",
+    "preprocessing_status": "ok",
+    "category": "Sports",
+    "classification_confidence": 0.1536,
+    "duplicate_group_id": null,
+    "similarity_score": 0.0,
+    "is_duplicate": 0,
+    "is_primary": 1,
+    "summary": "Online sleuths detected the error after Sydney Marathon unveiled the double-sided medal.",
+    "entities": {
+      "PERSON": [],
+      "ORGANIZATION": [],
+      "LOCATION": [
+        "Sydney"
+      ],
+      "DATE": [],
+      "MONEY": [],
+      "EVENT": []
+    },
+    "keypoints": [
+      "Online sleuths detected the error after Sydney Marathon unveiled the double-sided medal."
+    ],
+    "claims": [],
+    "key_points": [
+      "Online sleuths detected the error after Sydney Marathon unveiled the double-sided medal."
+    ],
+    "bullet_summary": [
+      "Online sleuths detected the error after Sydney Marathon unveiled the double-sided medal."
+    ]
+  },
+  {
+    "article_id": 31,
+    "title": "Two injured in stabbing attack at Canada Sikh temple",
+    "source": "rss_feeds",
+    "url": "https://www.bbc.co.uk/news/articles/ce8l7w0n0jeo?at_medium=RSS&at_campaign=rss",
+    "published_date": "Fri, 21 Aug 2026 22:45:01 GMT",
+    "language": "en",
+    "cleaned_text": "One suspect is in custody, and police have said they are still investigating if the attack was motivated by hate.",
+    "preprocessing_status": "ok",
+    "category": "Others",
+    "classification_confidence": 0.0,
+    "duplicate_group_id": null,
+    "similarity_score": 0.0,
+    "is_duplicate": 0,
+    "is_primary": 1,
+    "summary": "One suspect is in custody, and police have said they are still investigating if the attack was motivated by hate.",
+    "entities": {
+      "PERSON": [],
+      "ORGANIZATION": [],
+      "LOCATION": [],
+      "DATE": [],
+      "MONEY": [],
+      "EVENT": []
+    },
+    "keypoints": [
+      "One suspect is in custody, and police have said they are still investigating if the attack was motivated by hate."
+    ],
+    "claims": [
+      "One suspect is in custody, and police have said they are still investigating if the attack was motivated by hate."
+    ],
+    "key_points": [
+      "One suspect is in custody, and police have said they are still investigating if the attack was motivated by hate."
+    ],
+    "bullet_summary": [
+      "One suspect is in custody, and police have said they are still investigating if the attack was motivated by hate."
+    ]
+  },
+  {
+    "article_id": 32,
+    "title": "As they return to the UK, Harry and Meghan search for a brand that sticks",
+    "source": "rss_feeds",
+    "url": "https://www.bbc.co.uk/news/articles/c0l5d387j18o?at_medium=RSS&at_campaign=rss",
+    "published_date": "Sat, 22 Aug 2026 00:03:10 GMT",
+    "language": "en",
+    "cleaned_text": "They will not be working royals when they come back. So what could they be doing instead?",
+    "preprocessing_status": "ok",
+    "category": "Others",
+    "classification_confidence": 0.0,
+    "duplicate_group_id": null,
+    "similarity_score": 0.0,
+    "is_duplicate": 0,
+    "is_primary": 1,
+    "summary": "They will not be working royals when they come back. So what could they be doing instead?",
+    "entities": {
+      "PERSON": [],
+      "ORGANIZATION": [],
+      "LOCATION": [],
+      "DATE": [],
+      "MONEY": [],
+      "EVENT": []
+    },
+    "keypoints": [
+      "They will not be working royals when they come back.",
+      "So what could they be doing instead?"
+    ],
+    "claims": [],
+    "key_points": [
+      "They will not be working royals when they come back.",
+      "So what could they be doing instead?"
+    ],
+    "bullet_summary": [
+      "They will not be working royals when they come back.",
+      "So what could they be doing instead?"
+    ]
+  },
+  {
+    "article_id": 33,
+    "title": "Tupac murder accused told police in 2008 his nephew fired fatal shots",
+    "source": "rss_feeds",
+    "url": "https://www.bbc.co.uk/news/articles/cly57kzgr0ko?at_medium=RSS&at_campaign=rss",
+    "published_date": "Fri, 21 Aug 2026 18:09:38 GMT",
+    "language": "en",
+    "cleaned_text": "A recording of the interview Duane Davis conducted with detectives was played to the jury.",
+    "preprocessing_status": "ok",
+    "category": "Others",
+    "classification_confidence": 0.0,
+    "duplicate_group_id": null,
+    "similarity_score": 0.0,
+    "is_duplicate": 0,
+    "is_primary": 1,
+    "summary": "A recording of the interview Duane Davis conducted with detectives was played to the jury.",
+    "entities": {
+      "PERSON": [
+        "Duane Davis"
+      ],
+      "ORGANIZATION": [],
+      "LOCATION": [],
+      "DATE": [],
+      "MONEY": [],
+      "EVENT": []
+    },
+    "keypoints": [
+      "A recording of the interview Duane Davis conducted with detectives was played to the jury."
+    ],
+    "claims": [],
+    "key_points": [
+      "A recording of the interview Duane Davis conducted with detectives was played to the jury."
+    ],
+    "bullet_summary": [
+      "A recording of the interview Duane Davis conducted with detectives was played to the jury."
+    ]
+  },
+  {
+    "article_id": 34,
+    "title": "Germany investigates Russia links to weapons cache discovered in woods, reports say",
+    "source": "rss_feeds",
+    "url": "https://www.bbc.co.uk/news/articles/cp9edjpvplpo?at_medium=RSS&at_campaign=rss",
+    "published_date": "Fri, 21 Aug 2026 16:26:53 GMT",
+    "language": "en",
+    "cleaned_text": "German intelligence believes guns found last year were for carrying out assassinations on behalf of Moscow, reports say.",
+    "preprocessing_status": "ok",
+    "category": "Technology",
+    "classification_confidence": 0.1587,
+    "duplicate_group_id": null,
+    "similarity_score": 0.0,
+    "is_duplicate": 0,
+    "is_primary": 1,
+    "summary": "German intelligence believes guns found last year were for carrying out assassinations on behalf of Moscow, reports say.",
+    "entities": {
+      "PERSON": [],
+      "ORGANIZATION": [],
+      "LOCATION": [
+        "Moscow"
+      ],
+      "DATE": [],
+      "MONEY": [],
+      "EVENT": []
+    },
+    "keypoints": [
+      "German intelligence believes guns found last year were for carrying out assassinations on behalf of Moscow, reports say."
+    ],
+    "claims": [],
+    "key_points": [
+      "German intelligence believes guns found last year were for carrying out assassinations on behalf of Moscow, reports say."
+    ],
+    "bullet_summary": [
+      "German intelligence believes guns found last year were for carrying out assassinations on behalf of Moscow, reports say."
+    ]
+  },
+  {
+    "article_id": 35,
+    "title": "Hong Kong's Tiananmen activists guilty in national security trial",
+    "source": "rss_feeds",
+    "url": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss",
+    "published_date": "Fri, 21 Aug 2026 05:47:32 GMT",
+    "language": "en",
+    "cleaned_text": "Three activists were accused of inciting others to subvert state power under the China-introduced law.",
+    "preprocessing_status": "ok",
+    "category": "Politics",
+    "classification_confidence": 0.1066,
+    "duplicate_group_id": null,
+    "similarity_score": 0.0,
+    "is_duplicate": 0,
+    "is_primary": 1,
+    "summary": "Three activists were accused of inciting others to subvert state power under the China-introduced law.",
+    "entities": {
+      "PERSON": [],
+      "ORGANIZATION": [],
+      "LOCATION": [
+        "China"
+      ],
+      "DATE": [],
+      "MONEY": [],
+      "EVENT": []
+    },
+    "keypoints": [
+      "Three activists were accused of inciting others to subvert state power under the China-introduced law."
+    ],
+    "claims": [],
+    "key_points": [
+      "Three activists were accused of inciting others to subvert state power under the China-introduced law."
+    ],
+    "bullet_summary": [
+      "Three activists were accused of inciting others to subvert state power under the China-introduced law."
+    ]
+  },
+  {
+    "article_id": 36,
+    "title": "Ebola vaccine trial to start in DR Congo as warning issued over speed of infections",
+    "source": "rss_feeds",
+    "url": "https://www.bbc.co.uk/news/articles/czxe9n0vxzdo?at_medium=RSS&at_campaign=rss",
+    "published_date": "Fri, 21 Aug 2026 13:44:43 GMT",
+    "language": "en",
+    "cleaned_text": "About half of the 2,500 recorded deaths from Ebola happened in the last 20 days, the WHO says.",
+    "preprocessing_status": "ok",
+    "category": "Others",
+    "classification_confidence": 0.0,
+    "duplicate_group_id": null,
+    "similarity_score": 0.0,
+    "is_duplicate": 0,
+    "is_primary": 1,
+    "summary": "About half of the 2,500 recorded deaths from Ebola happened in the last 20 days, the WHO says.",
+    "entities": {
+      "PERSON": [],
+      "ORGANIZATION": [],
+      "LOCATION": [],
+      "DATE": [],
+      "MONEY": [],
+      "EVENT": []
+    },
+    "keypoints": [
+      "About half of the 2,500 recorded deaths from Ebola happened in the last 20 days, the WHO says."
+    ],
+    "claims": [
+      "About half of the 2,500 recorded deaths from Ebola happened in the last 20 days, the WHO says."
+    ],
+    "key_points": [
+      "About half of the 2,500 recorded deaths from Ebola happened in the last 20 days, the WHO says."
+    ],
+    "bullet_summary": [
+      "About half of the 2,500 recorded deaths from Ebola happened in the last 20 days, the WHO says."
+    ]
+  },
+  {
+    "article_id": 37,
+    "title": "Meghan in talks for role in Netflix series The Gentlemen, BBC understands",
+    "source": "rss_feeds",
+    "url": "https://www.bbc.co.uk/news/articles/cwye9g9r58zo?at_medium=RSS&at_campaign=rss",
+    "published_date": "Fri, 21 Aug 2026 18:29:31 GMT",
+    "language": "en",
+    "cleaned_text": "This would be Meghan's first significant acting role since her marriage to Prince Harry.",
+    "preprocessing_status": "ok",
+    "category": "Others",
+    "classification_confidence": 0.0,
+    "duplicate_group_id": null,
+    "similarity_score": 0.0,
+    "is_duplicate": 0,
+    "is_primary": 1,
+    "summary": "This would be Meghan's first significant acting role since her marriage to Prince Harry.",
+    "entities": {
+      "PERSON": [
+        "Prince Harry"
+      ],
+      "ORGANIZATION": [],
+      "LOCATION": [],
+      "DATE": [],
+      "MONEY": [],
+      "EVENT": []
+    },
+    "keypoints": [
+      "This would be Meghan's first significant acting role since her marriage to Prince Harry."
+    ],
+    "claims": [],
+    "key_points": [
+      "This would be Meghan's first significant acting role since her marriage to Prince Harry."
+    ],
+    "bullet_summary": [
+      "This would be Meghan's first significant acting role since her marriage to Prince Harry."
+    ]
+  },
+  {
+    "article_id": 38,
+    "title": "Peru earthquake damages buildings and causes power cuts",
+    "source": "rss_feeds",
+    "url": "https://www.bbc.co.uk/news/articles/c0km6n3ng7ko?at_medium=RSS&at_campaign=rss",
+    "published_date": "Fri, 21 Aug 2026 11:14:38 GMT",
+    "language": "en",
+    "cleaned_text": "A magnitude 6.7 earthquake struck the Ayacucho region on Thursday, the US Geological Survey says.",
+    "preprocessing_status": "ok",
+    "category": "Others",
+    "classification_confidence": 0.0,
+    "duplicate_group_id": null,
+    "similarity_score": 0.0,
+    "is_duplicate": 0,
+    "is_primary": 1,
+    "summary": "A magnitude 6.7 earthquake struck the Ayacucho region on Thursday, the US Geological Survey says.",
+    "entities": {
+      "PERSON": [],
+      "ORGANIZATION": [],
+      "LOCATION": [],
+      "DATE": [
+        "Thursday"
+      ],
+      "MONEY": [],
+      "EVENT": [
+        "earthquake"
+      ]
+    },
+    "keypoints": [
+      "A magnitude 6.7 earthquake struck the Ayacucho region on Thursday, the US Geological Survey says."
+    ],
+    "claims": [
+      "A magnitude 6.7 earthquake struck the Ayacucho region on Thursday, the US Geological Survey says."
+    ],
+    "key_points": [
+      "A magnitude 6.7 earthquake struck the Ayacucho region on Thursday, the US Geological Survey says."
+    ],
+    "bullet_summary": [
+      "A magnitude 6.7 earthquake struck the Ayacucho region on Thursday, the US Geological Survey says."
+    ]
+  },
+  {
+    "article_id": 39,
+    "title": "Five missing after fire in Swiss Alpine town",
+    "source": "rss_feeds",
+    "url": "https://www.bbc.co.uk/news/articles/cy8e6g13497o?at_medium=RSS&at_campaign=rss",
+    "published_date": "Fri, 21 Aug 2026 13:10:39 GMT",
+    "language": "en",
+    "cleaned_text": "Eight others were injured, local police say, with the cause of the fire still being investigated.",
+    "preprocessing_status": "ok",
+    "category": "Others",
+    "classification_confidence": 0.0,
+    "duplicate_group_id": null,
+    "similarity_score": 0.0,
+    "is_duplicate": 0,
+    "is_primary": 1,
+    "summary": "Eight others were injured, local police say, with the cause of the fire still being investigated.",
+    "entities": {
+      "PERSON": [],
+      "ORGANIZATION": [],
+      "LOCATION": [],
+      "DATE": [],
+      "MONEY": [],
+      "EVENT": []
+    },
+    "keypoints": [
+      "Eight others were injured, local police say, with the cause of the fire still being investigated."
+    ],
+    "claims": [],
+    "key_points": [
+      "Eight others were injured, local police say, with the cause of the fire still being investigated."
+    ],
+    "bullet_summary": [
+      "Eight others were injured, local police say, with the cause of the fire still being investigated."
+    ]
+  },
+  {
+    "article_id": 40,
+    "title": "Ethiopia's Virgin Mary festival in Tigray cancelled over drone strike fears",
+    "source": "rss_feeds",
+    "url": "https://www.bbc.co.uk/news/articles/c24me64n31qo?at_medium=RSS&at_campaign=rss",
+    "published_date": "Fri, 21 Aug 2026 16:20:55 GMT",
+    "language": "en",
+    "cleaned_text": "An eagerly anticipated gathering of women will not be taking place following recent aerial strikes.",
+    "preprocessing_status": "ok",
+    "category": "Others",
+    "classification_confidence": 0.0,
+    "duplicate_group_id": null,
+    "similarity_score": 0.0,
+    "is_duplicate": 0,
+    "is_primary": 1,
+    "summary": "An eagerly anticipated gathering of women will not be taking place following recent aerial strikes.",
+    "entities": {
+      "PERSON": [],
+      "ORGANIZATION": [],
+      "LOCATION": [],
+      "DATE": [],
+      "MONEY": [],
+      "EVENT": []
+    },
+    "keypoints": [
+      "An eagerly anticipated gathering of women will not be taking place following recent aerial strikes."
+    ],
+    "claims": [],
+    "key_points": [
+      "An eagerly anticipated gathering of women will not be taking place following recent aerial strikes."
+    ],
+    "bullet_summary": [
+      "An eagerly anticipated gathering of women will not be taking place following recent aerial strikes."
+    ]
+  },
+  {
+    "article_id": 41,
+    "title": "Pakistan ex-PM Imran Khan back in jail after hospital examination",
+    "source": "rss_feeds",
+    "url": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&at_campaign=rss",
+    "published_date": "Fri, 21 Aug 2026 10:46:09 GMT",
+    "language": "en",
+    "cleaned_text": "It comes as the court had earlier this week ordered that he had to be taken for a hospital examination.",
+    "preprocessing_status": "ok",
+    "category": "Others",
+    "classification_confidence": 0.0,
+    "duplicate_group_id": null,
+    "similarity_score": 0.0,
+    "is_duplicate": 0,
+    "is_primary": 1,
+    "summary": "It comes as the court had earlier this week ordered that he had to be taken for a hospital examination.",
+    "entities": {
+      "PERSON": [],
+      "ORGANIZATION": [],
+      "LOCATION": [],
+      "DATE": [],
+      "MONEY": [],
+      "EVENT": []
+    },
+    "keypoints": [
+      "It comes as the court had earlier this week ordered that he had to be taken for a hospital examination."
+    ],
+    "claims": [],
+    "key_points": [
+      "It comes as the court had earlier this week ordered that he had to be taken for a hospital examination."
+    ],
+    "bullet_summary": [
+      "It comes as the court had earlier this week ordered that he had to be taken for a hospital examination."
+    ]
+  },
+  {
+    "article_id": 42,
+    "title": "These bookshops let Chinese readers question their country - now the doors are closing",
+    "source": "rss_feeds",
+    "url": "https://www.bbc.co.uk/news/articles/cj0338l6yg4o?at_medium=RSS&at_campaign=rss",
+    "published_date": "Fri, 21 Aug 2026 22:26:25 GMT",
+    "language": "en",
+    "cleaned_text": "For some mainlanders, Hong Kong's independent bookstores are a window into a different, freer world.",
+    "preprocessing_status": "ok",
+    "category": "Sports",
+    "classification_confidence": 0.1275,
+    "duplicate_group_id": null,
+    "similarity_score": 0.0,
+    "is_duplicate": 0,
+    "is_primary": 1,
+    "summary": "For some mainlanders, Hong Kong's independent bookstores are a window into a different, freer world.",
+    "entities": {
+      "PERSON": [],
+      "ORGANIZATION": [],
+      "LOCATION": [
+        "Hong Kong"
+      ],
+      "DATE": [],
+      "MONEY": [],
+      "EVENT": []
+    },
+    "keypoints": [
+      "For some mainlanders, Hong Kong's independent bookstores are a window into a different, freer world."
+    ],
+    "claims": [],
+    "key_points": [
+      "For some mainlanders, Hong Kong's independent bookstores are a window into a different, freer world."
+    ],
+    "bullet_summary": [
+      "For some mainlanders, Hong Kong's independent bookstores are a window into a different, freer world."
+    ]
+  },
+  {
+    "article_id": 43,
+    "title": "Drugs at their fingertips, intense pressure: Why child stars fall into addiction",
+    "source": "rss_feeds",
+    "url": "https://www.bbc.co.uk/news/articles/cq56x3910jwo?at_medium=RSS&at_campaign=rss",
+    "published_date": "Fri, 21 Aug 2026 23:41:33 GMT",
+    "language": "en",
+    "cleaned_text": "Experts told the BBC the pressures of childhood stardom can put actors at an unusually higher risk of substance abuse issues.",
+    "preprocessing_status": "ok",
+    "category": "Others",
+    "classification_confidence": 0.0,
+    "duplicate_group_id": null,
+    "similarity_score": 0.0,
+    "is_duplicate": 0,
+    "is_primary": 1,
+    "summary": "Experts told the BBC the pressures of childhood stardom can put actors at an unusually higher risk of substance abuse issues.",
+    "entities": {
+      "PERSON": [],
+      "ORGANIZATION": [],
+      "LOCATION": [],
+      "DATE": [],
+      "MONEY": [],
+      "EVENT": []
+    },
+    "keypoints": [
+      "Experts told the BBC the pressures of childhood stardom can put actors at an unusually higher risk of substance abuse issues."
+    ],
+    "claims": [
+      "Experts told the BBC the pressures of childhood stardom can put actors at an unusually higher risk of substance abuse issues."
+    ],
+    "key_points": [
+      "Experts told the BBC the pressures of childhood stardom can put actors at an unusually higher risk of substance abuse issues."
+    ],
+    "bullet_summary": [
+      "Experts told the BBC the pressures of childhood stardom can put actors at an unusually higher risk of substance abuse issues."
+    ]
+  },
+  {
+    "article_id": 44,
+    "title": "How Israel is expanding settlements in drive to reshape West Bank",
+    "source": "rss_feeds",
+    "url": "https://www.bbc.co.uk/news/articles/c2lq5g4dedpo?at_medium=RSS&at_campaign=rss",
+    "published_date": "Fri, 21 Aug 2026 19:31:47 GMT",
+    "language": "en",
+    "cleaned_text": "There has been a significant expansion of building and road construction on Palestinian land occupied by Israel in recent years.",
+    "preprocessing_status": "ok",
+    "category": "Others",
+    "classification_confidence": 0.0,
+    "duplicate_group_id": null,
+    "similarity_score": 0.0,
+    "is_duplicate": 0,
+    "is_primary": 1,
+    "summary": "There has been a significant expansion of building and road construction on Palestinian land occupied by Israel in recent years.",
+    "entities": {
+      "PERSON": [],
+      "ORGANIZATION": [],
+      "LOCATION": [
+        "Israel"
+      ],
+      "DATE": [],
+      "MONEY": [],
+      "EVENT": []
+    },
+    "keypoints": [
+      "There has been a significant expansion of building and road construction on Palestinian land occupied by Israel in recent years."
+    ],
+    "claims": [],
+    "key_points": [
+      "There has been a significant expansion of building and road construction on Palestinian land occupied by Israel in recent years."
+    ],
+    "bullet_summary": [
+      "There has been a significant expansion of building and road construction on Palestinian land occupied by Israel in recent years."
+    ]
+  },
+  {
+    "article_id": 45,
+    "title": "Modi spent years building his strong image - why is he making Gen Z reels now?",
+    "source": "rss_feeds",
+    "url": "https://www.bbc.co.uk/news/articles/cnvn0n1nld6o?at_medium=RSS&at_campaign=rss",
+    "published_date": "Fri, 21 Aug 2026 22:15:32 GMT",
+    "language": "en",
+    "cleaned_text": "Narendra Modi's new, more casual online persona is drawing attention from young Indians - but also plenty of scepticism.",
+    "preprocessing_status": "ok",
+    "category": "Others",
+    "classification_confidence": 0.0,
+    "duplicate_group_id": null,
+    "similarity_score": 0.0,
+    "is_duplicate": 0,
+    "is_primary": 1,
+    "summary": "Narendra Modi's new, more casual online persona is drawing attention from young Indians - but also plenty of scepticism.",
+    "entities": {
+      "PERSON": [
+        "Narendra Modi"
+      ],
+      "ORGANIZATION": [],
+      "LOCATION": [
+        "India"
+      ],
+      "DATE": [],
+      "MONEY": [],
+      "EVENT": []
+    },
+    "keypoints": [
+      "Narendra Modi's new, more casual online persona is drawing attention from young Indians - but also plenty of scepticism."
+    ],
+    "claims": [],
+    "key_points": [
+      "Narendra Modi's new, more casual online persona is drawing attention from young Indians - but also plenty of scepticism."
+    ],
+    "bullet_summary": [
+      "Narendra Modi's new, more casual online persona is drawing attention from young Indians - but also plenty of scepticism."
+    ]
+  },
+  {
+    "article_id": 46,
+    "title": "Rosenberg: Shortage of petrol but not patriotism as Russians feel growing impact of war",
+    "source": "rss_feeds",
+    "url": "https://www.bbc.co.uk/news/articles/c4gknzgje7go?at_medium=RSS&at_campaign=rss",
+    "published_date": "Fri, 21 Aug 2026 13:07:00 GMT",
+    "language": "en",
+    "cleaned_text": "Drivers are waiting hours in fuel queues, as Moscow prepares to celebrate Russian Flag Day.",
+    "preprocessing_status": "ok",
+    "category": "Others",
+    "classification_confidence": 0.0,
+    "duplicate_group_id": null,
+    "similarity_score": 0.0,
+    "is_duplicate": 0,
+    "is_primary": 1,
+    "summary": "Drivers are waiting hours in fuel queues, as Moscow prepares to celebrate Russian Flag Day.",
+    "entities": {
+      "PERSON": [],
+      "ORGANIZATION": [],
+      "LOCATION": [
+        "Moscow",
+        "Russia"
+      ],
+      "DATE": [],
+      "MONEY": [],
+      "EVENT": []
+    },
+    "keypoints": [
+      "Drivers are waiting hours in fuel queues, as Moscow prepares to celebrate Russian Flag Day."
+    ],
+    "claims": [],
+    "key_points": [
+      "Drivers are waiting hours in fuel queues, as Moscow prepares to celebrate Russian Flag Day."
+    ],
+    "bullet_summary": [
+      "Drivers are waiting hours in fuel queues, as Moscow prepares to celebrate Russian Flag Day."
+    ]
+  },
+  {
+    "article_id": 47,
+    "title": "How much could Trump's 'economic D-Day' hurt Iran?",
+    "source": "rss_feeds",
+    "url": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&at_campaign=rss",
+    "published_date": "Thu, 20 Aug 2026 23:16:45 GMT",
+    "language": "en",
+    "cleaned_text": "Iran has so far proved adept at finding ways around years of already punishing sanctions on its economy.",
+    "preprocessing_status": "ok",
+    "category": "International",
+    "classification_confidence": 0.1058,
+    "duplicate_group_id": null,
+    "similarity_score": 0.0,
+    "is_duplicate": 0,
+    "is_primary": 1,
+    "summary": "Iran has so far proved adept at finding ways around years of already punishing sanctions on its economy.",
+    "entities": {
+      "PERSON": [],
+      "ORGANIZATION": [],
+      "LOCATION": [
+        "Iran"
+      ],
+      "DATE": [],
+      "MONEY": [],
+      "EVENT": []
+    },
+    "keypoints": [
+      "Iran has so far proved adept at finding ways around years of already punishing sanctions on its economy."
+    ],
+    "claims": [],
+    "key_points": [
+      "Iran has so far proved adept at finding ways around years of already punishing sanctions on its economy."
+    ],
+    "bullet_summary": [
+      "Iran has so far proved adept at finding ways around years of already punishing sanctions on its economy."
+    ]
+  },
+  {
+    "article_id": 48,
+    "title": "'Quiet, quiet, quiet!' - What triggers Trump to shut down reporters?",
+    "source": "rss_feeds",
+    "url": "https://www.bbc.co.uk/news/videos/c235j22d85ro?at_medium=RSS&at_campaign=rss",
+    "published_date": "Sat, 22 Aug 2026 02:39:10 GMT",
+    "language": "en",
+    "cleaned_text": "As the US president insults a journalist again, the BBC looks at the questions he does not like to answer.",
+    "preprocessing_status": "ok",
+    "category": "Politics",
+    "classification_confidence": 0.1508,
+    "duplicate_group_id": null,
+    "similarity_score": 0.0,
+    "is_duplicate": 0,
+    "is_primary": 1,
+    "summary": "As the US president insults a journalist again, the BBC looks at the questions he does not like to answer.",
+    "entities": {
+      "PERSON": [],
+      "ORGANIZATION": [],
+      "LOCATION": [],
+      "DATE": [],
+      "MONEY": [],
+      "EVENT": []
+    },
+    "keypoints": [
+      "As the US president insults a journalist again, the BBC looks at the questions he does not like to answer."
+    ],
+    "claims": [],
+    "key_points": [
+      "As the US president insults a journalist again, the BBC looks at the questions he does not like to answer."
+    ],
+    "bullet_summary": [
+      "As the US president insults a journalist again, the BBC looks at the questions he does not like to answer."
+    ]
+  },
+  {
+    "article_id": 49,
+    "title": "Tornadoes touch down in New York and Delaware",
+    "source": "rss_feeds",
+    "url": "https://www.bbc.co.uk/news/videos/cy07x9ne871o?at_medium=RSS&at_campaign=rss",
+    "published_date": "Fri, 21 Aug 2026 14:35:50 GMT",
+    "language": "en",
+    "cleaned_text": "Tornadoes swept through New York and Delaware as severe storms brought torrential rain to the Mid-Atlantic.",
+    "preprocessing_status": "ok",
+    "category": "Others",
+    "classification_confidence": 0.0,
+    "duplicate_group_id": null,
+    "similarity_score": 0.0,
+    "is_duplicate": 0,
+    "is_primary": 1,
+    "summary": "Tornadoes swept through New York and Delaware as severe storms brought torrential rain to the Mid-Atlantic.",
+    "entities": {
+      "PERSON": [],
+      "ORGANIZATION": [],
+      "LOCATION": [
+        "Delaware",
+        "New York"
+      ],
+      "DATE": [],
+      "MONEY": [],
+      "EVENT": []
+    },
+    "keypoints": [
+      "Tornadoes swept through New York and Delaware as severe storms brought torrential rain to the Mid-Atlantic."
+    ],
+    "claims": [],
+    "key_points": [
+      "Tornadoes swept through New York and Delaware as severe storms brought torrential rain to the Mid-Atlantic."
+    ],
+    "bullet_summary": [
+      "Tornadoes swept through New York and Delaware as severe storms brought torrential rain to the Mid-Atlantic."
+    ]
+  },
+  {
+    "article_id": 50,
+    "title": "Priyanka Chopra Jonas on making a film about love and caste inequality",
+    "source": "rss_feeds",
+    "url": "https://www.bbc.co.uk/news/videos/cn4nk1915vxo?at_medium=RSS&at_campaign=rss",
+    "published_date": "Fri, 21 Aug 2026 13:32:28 GMT",
+    "language": "en",
+    "cleaned_text": "Priyanka Chopra Jonas has executive produced The Cycle of Love, based on an Indian artist who cycled from India to Europe to reunite with his wife.",
+    "preprocessing_status": "ok",
+    "category": "International",
+    "classification_confidence": 0.2116,
+    "duplicate_group_id": null,
+    "similarity_score": 0.0,
+    "is_duplicate": 0,
+    "is_primary": 1,
+    "summary": "Priyanka Chopra Jonas has executive produced The Cycle of Love, based on an Indian artist who cycled from India to Europe to reunite with his wife.",
+    "entities": {
+      "PERSON": [
+        "Priyanka Chopra Jonas",
+        "The Cycle"
+      ],
+      "ORGANIZATION": [],
+      "LOCATION": [
+        "Europe",
+        "India"
+      ],
+      "DATE": [],
+      "MONEY": [],
+      "EVENT": []
+    },
+    "keypoints": [
+      "Priyanka Chopra Jonas has executive produced The Cycle of Love, based on an Indian artist who cycled from India to Europe to reunite with his wife."
+    ],
+    "claims": [],
+    "key_points": [
+      "Priyanka Chopra Jonas has executive produced The Cycle of Love, based on an Indian artist who cycled from India to Europe to reunite with his wife."
+    ],
+    "bullet_summary": [
+      "Priyanka Chopra Jonas has executive produced The Cycle of Love, based on an Indian artist who cycled from India to Europe to reunite with his wife."
+    ]
+  },
+  {
+    "article_id": 51,
+    "title": "Watch: Fishermen rescued after five days adrift in cool box",
+    "source": "rss_feeds",
+    "url": "https://www.bbc.co.uk/news/videos/c1l10g94yg1o?at_medium=RSS&at_campaign=rss",
+    "published_date": "Thu, 20 Aug 2026 20:41:31 GMT",
+    "language": "en",
+    "cleaned_text": "The men, aged 53 and 32, lost contact with their fishing cooperative on 14 August, 75 miles off the coast of Mexico.",
+    "preprocessing_status": "ok",
+    "category": "Others",
+    "classification_confidence": 0.0,
+    "duplicate_group_id": null,
+    "similarity_score": 0.0,
+    "is_duplicate": 0,
+    "is_primary": 1,
+    "summary": "The men, aged 53 and 32, lost contact with their fishing cooperative on 14 August, 75 miles off the coast of Mexico.",
+    "entities": {
+      "PERSON": [],
+      "ORGANIZATION": [],
+      "LOCATION": [],
+      "DATE": [
+        "14 August"
+      ],
+      "MONEY": [],
+      "EVENT": []
+    },
+    "keypoints": [
+      "The men, aged 53 and 32, lost contact with their fishing cooperative on 14 August, 75 miles off the coast of Mexico."
+    ],
+    "claims": [
+      "The men, aged 53 and 32, lost contact with their fishing cooperative on 14 August, 75 miles off the coast of Mexico."
+    ],
+    "key_points": [
+      "The men, aged 53 and 32, lost contact with their fishing cooperative on 14 August, 75 miles off the coast of Mexico."
+    ],
+    "bullet_summary": [
+      "The men, aged 53 and 32, lost contact with their fishing cooperative on 14 August, 75 miles off the coast of Mexico."
+    ]
+  },
+  {
+    "article_id": 52,
+    "title": "Watch: What does Harry's return mean for his fractured relationship with William?",
+    "source": "rss_feeds",
+    "url": "https://www.bbc.co.uk/news/videos/cgljr2wlr1no?at_medium=RSS&at_campaign=rss",
+    "published_date": "Thu, 20 Aug 2026 16:54:51 GMT",
+    "language": "en",
+    "cleaned_text": "The brothers have had a fractured relationship for a number of years.",
+    "preprocessing_status": "ok",
+    "category": "Others",
+    "classification_confidence": 0.0,
+    "duplicate_group_id": null,
+    "similarity_score": 0.0,
+    "is_duplicate": 0,
+    "is_primary": 1,
+    "summary": "The brothers have had a fractured relationship for a number of years.",
+    "entities": {
+      "PERSON": [],
+      "ORGANIZATION": [],
+      "LOCATION": [],
+      "DATE": [],
+      "MONEY": [],
+      "EVENT": []
+    },
+    "keypoints": [
+      "The brothers have had a fractured relationship for a number of years."
+    ],
+    "claims": [],
+    "key_points": [
+      "The brothers have had a fractured relationship for a number of years."
+    ],
+    "bullet_summary": [
+      "The brothers have had a fractured relationship for a number of years."
+    ]
+  }
+]
