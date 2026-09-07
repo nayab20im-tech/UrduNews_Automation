@@ -1,0 +1,117 @@
+﻿python : 2026-08-28 22:06:27 | INFO     | pipeline.processed_news_db | 
+Connected to processed news database at 
+C:\Users\User\Downloads\Project\UrduNews_AI\data_acquisition\data\raw_news.db
+At line:1 char:52
++ ... User\Downloads\Project\UrduNews_AI"; python _run_full.py 2>&1 | Out-F ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (2026-08-28 22:0...ata\raw_news.db 
+   :String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+2026-08-28 22:06:27 | INFO     | video_production.pipeline | Video production: 
+1 eligible articles
+2026-08-28 22:06:27 | INFO     | video_production.pipeline | === Stage 3.1: AI 
+Avatar Generation ===
+2026-08-28 22:07:10 | INFO     | video_production.avatar | Avatar generation: 
+1/1 ok
+2026-08-28 22:07:10 | INFO     | video_production.pipeline | === Stage 3.2: 
+Lip Synchronization ===
+2026-08-28 22:09:25 | INFO     | video_production.lip_sync | Lip-sync: 1/1 ok
+2026-08-28 22:09:25 | INFO     | video_production.pipeline | === Stage 3.3: 
+Background & Visuals ===
+2026-08-28 22:09:26 | INFO     | video_production.visuals | Visual generation: 
+1/1 ok
+2026-08-28 22:09:26 | INFO     | video_production.pipeline | === Stage 3.4: 
+Video Composition ===
+2026-08-28 22:10:19 | INFO     | video_production.composer | Video 
+composition: 1/1 ok
+2026-08-28 22:10:19 | INFO     | video_production.pipeline | === Stage 3.5: 
+Subtitle Generation ===
+2026-08-28 22:10:49 | INFO     | video_production.subtitles | Subtitle 
+generation: 1/1 ok
+2026-08-28 22:10:49 | INFO     | video_production.pipeline | === Stage 3.6: 
+Thumbnail Generation ===
+2026-08-28 22:10:49 | INFO     | video_production.thumbnail | Thumbnail 
+generation: 1/1 ok
+2026-08-28 22:10:49 | INFO     | video_production.pipeline | Video production 
+complete: 1 articles processed, 1 with final video
+2026-08-28 22:10:49 | INFO     | pipeline.processed_news_db | Processed news 
+database connection closed 
+(C:\Users\User\Downloads\Project\UrduNews_AI\data_acquisition\data\raw_news.db)
+Articles: 52
+Running full pipeline (stages 3.1-3.6)...
+
+
+=== REPORT ===
+{
+  "started_at": "2026-08-28T17:06:27+00:00",
+  "finished_at": "2026-08-28T17:10:49+00:00",
+  "stages": [
+    {
+      "stage": "3.1_avatar_generation",
+      "processed": 1,
+      "ok": 1,
+      "skipped_or_error": 0,
+      "details": {
+        "by_backend": {
+          "placeholder": 1
+        }
+      }
+    },
+    {
+      "stage": "3.2_lip_sync",
+      "processed": 1,
+      "ok": 1,
+      "skipped_or_error": 0,
+      "details": {
+        "by_backend": {
+          "animated": 1
+        }
+      }
+    },
+    {
+      "stage": "3.3_visuals",
+      "processed": 1,
+      "ok": 1,
+      "skipped_or_error": 0,
+      "details": {}
+    },
+    {
+      "stage": "3.4_composition",
+      "processed": 1,
+      "ok": 1,
+      "skipped_or_error": 0,
+      "details": {}
+    },
+    {
+      "stage": "3.5_subtitles",
+      "processed": 1,
+      "ok": 1,
+      "skipped_or_error": 0,
+      "details": {
+        "total_subtitles": 8
+      }
+    },
+    {
+      "stage": "3.6_thumbnail",
+      "processed": 1,
+      "ok": 1,
+      "skipped_or_error": 0,
+      "details": {}
+    }
+  ],
+  "outputs": [
+    {
+      "article_id": 1,
+      "headline": "╪╣┘à╪▒╪º┘å ╪«╪º┘å ┌⌐█î █ü╪│┘╛╪¬╪º┘ä ┘à┘å╪¬┘é┘ä█î ┌⌐╪º ┘à╪╣╪º┘à┘ä█ü╪î ╪¬╪¡╪▒█î┌⌐┘É ╪º┘å╪╡╪º┘ü ┘å█Æ ╪¬┘ê█ü█î┘å┘É ╪╣╪»╪º┘ä╪¬ ┌⌐█î ╪»╪▒╪«┘ê╪º╪│╪¬ ╪»╪º╪ª╪▒ ┌⌐╪▒ ╪»█î█ö",
+      "category": "Politics",
+      "avatar_video": "C:\\Users\\User\\Downloads\\Project\\UrduNews_AI\\data_acquisition\\data\\media\\video\\avatar\\avatar_1.mp4",
+      "lip_sync_video": "C:\\Users\\User\\Downloads\\Project\\UrduNews_AI\\data_acquisition\\data\\media\\video\\lip_sync\\lipsync_1.mp4",
+      "composed_video": "C:\\Users\\User\\Downloads\\Project\\UrduNews_AI\\data_acquisition\\data\\media\\video\\composition\\composed_1.mp4",
+      "subtitled_video": "C:\\Users\\User\\Downloads\\Project\\UrduNews_AI\\data_acquisition\\data\\media\\video\\composition\\composed_1_subtitled.mp4",
+      "srt_path": "C:\\Users\\User\\Downloads\\Project\\UrduNews_AI\\data_acquisition\\data\\media\\video\\subtitles\\subtitles_1.srt",
+      "thumbnail_path": "C:\\Users\\User\\Downloads\\Project\\UrduNews_AI\\data_acquisition\\data\\media\\video\\thumbnails\\thumbnail_1.jpg",
+      "audio_path": "C:\\Users\\User\\Downloads\\Project\\UrduNews_AI\\data_acquisition\\data\\media\\audio_processed\\article_1_processed.wav"
+    }
+  ]
+}

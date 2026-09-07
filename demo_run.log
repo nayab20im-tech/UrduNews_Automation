@@ -1,0 +1,48 @@
+2026-09-04 10:15:32 | INFO     | demo | Using audio: output/avatar_engine/work/4c71bc86b4e3/audio.wav (duration: 5.91s)
+2026-09-04 10:15:32 | INFO     | demo | Generating visuals (ARY style)...
+2026-09-04 10:15:34 | INFO     | demo | Generating avatar (D-ID API)...
+2026-09-04 10:15:34 | INFO     | video_production.avatar | D-ID: uploading source image /home/guest/Documents/Projects/Project/video_production/actual_anchor.png
+Traceback (most recent call last):
+  File "/home/guest/Documents/Projects/Project/run_real_demo.py", line 43, in <module>
+    r_av = av.generate(42, audio_src, duration)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/guest/Documents/Projects/Project/video_production/avatar_generator.py", line 116, in generate
+    success = self._run_did(audio_path, out_path)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/guest/Documents/Projects/Project/video_production/avatar_generator.py", line 233, in _run_did
+    with urllib.request.urlopen(img_upload_req, timeout=120) as resp:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 215, in urlopen
+    return opener.open(url, data, timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 515, in open
+    response = self._open(req, data)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 532, in _open
+    result = self._call_chain(self.handle_open, protocol, protocol +
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 492, in _call_chain
+    result = func(*args)
+             ^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 1392, in https_open
+    return self.do_open(http.client.HTTPSConnection, req,
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 1344, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers,
+  File "/usr/lib/python3.12/http/client.py", line 1365, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "/usr/lib/python3.12/http/client.py", line 1411, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "/usr/lib/python3.12/http/client.py", line 1360, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/usr/lib/python3.12/http/client.py", line 1159, in _send_output
+    self.send(chunk)
+  File "/usr/lib/python3.12/http/client.py", line 1084, in send
+    self.sock.sendall(data)
+  File "/usr/lib/python3.12/ssl.py", line 1211, in sendall
+    v = self.send(byte_view[count:])
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/ssl.py", line 1180, in send
+    return self._sslobj.write(data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt
