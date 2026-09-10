@@ -1,2 +1,28 @@
+# Environment variables (Do NOT commit sensitive credentials)
 .env
 .env.*
+!.env.example
+.agents/mcp_config.json
+
+# Python Caches & Virtual Environments
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Logs
+*.log
+_full_run_log.txt
+_full_run_log2.txt
+
+# Temporary Frame Cache & Debug Folders
+_frames_check/
+_frames_check2/
+_frames_lipsync/
+_test_frames/
+
+# OS specific files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,106 @@
+# ============================================================================
+# sources_config.yaml
+# ----------------------------------------------------------------------------
+# Configuration for Section 1 "Data Collection Layer". Nothing in code needs
+# to change to add/remove/adjust a source -- edit this file only.
+#
+# IMPORTANT: RSS feed URLs and website HTML structure change over time and
+# differ per outlet. The RSS feeds below (BBC) are long-standing, publicly
+# documented endpoints and are enabled by default. Everything else (Dawn,
+# Geo, Jang, custom sites) is left as a commented-out / disabled TEMPLATE --
+# fill in and verify the real URL + CSS selectors for your target sites
+# before enabling them, so the pipeline never silently scrapes the wrong
+# thing. See README.md "Configuring real sources" for how to find selectors.
+# ============================================================================
+
+rss_feeds:
+  - name: "BBC Urdu"
+    url: "https://feeds.bbci.co.uk/urdu/rss.xml"
+    language: "ur"
+    category: "general"
+
+  - name: "BBC News - World"
+    url: "https://feeds.bbci.co.uk/news/world/rss.xml"
+    language: "en"
+    category: "world"
+
+  # Dawn.com -- verified working 2026-08-25 (returns full <content:encoded>
+  # article HTML, not just a summary, so the website scraper below isn't
+  # even needed for Dawn). This replaces the old, always-failing "Dawn.com
+  # Website Scraper" entry: Dawn's front-end markup/CSS classes change with
+  # redesigns, so hand-written selectors go stale silently, whereas Dawn's
+  # own RSS feed is a stable contract they publish and maintain themselves.
+  - name: "Dawn.com - Home"
+    url: "https://www.dawn.com/feeds/home"
+    language: "en"
+    category: "general"
+
+  # Dawn publishes section feeds on the same /feeds/<section> pattern.
+  # Only "home" above has been verified against the live site -- confirm
+  # a section feed loads in a browser before uncommenting it here.
+  # - name: "Dawn.com - Pakistan"
+  #   url: "https://www.dawn.com/feeds/pakistan"
+  #   language: "en"
+  #   category: "pakistan"
+  # - name: "Dawn.com - Business"
+  #   url: "https://www.dawn.com/feeds/business"
+  #   language: "en"
+  #   category: "business"
+  # - name: "Dawn.com - World"
+  #   url: "https://www.dawn.com/feeds/world"
+  #   language: "en"
+  #   category: "world"
+
+  # Add more feeds like this once you've confirmed the URL in a browser:
+  # - name: "Geo News Urdu"
+  #   url: "https://urdu.geo.tv/rss/1/1"
+  #   language: "ur"
+  #   category: "general"
+
+websites:
+  # TEMPLATE -- disabled until selectors are filled in and verified against
+  # the live site (right-click an article link/headline in your browser ->
+  # "Inspect" -> copy a CSS selector that matches it). For most outlets,
+  # check for an official RSS feed first (see rss_feeds above) -- it's far
+  # more reliable than CSS-selector scraping, which breaks every time the
+  # site redesigns. Only use this scraper for sites with no usable feed.
+  - name: "Example Urdu News Site"
+    enabled: false
+    listing_url: "https://example-news.com/latest"
+    language: "ur"
+    category: "general"
+    max_articles: 20
+    use_selenium: false            # set true only if content needs JS to render
+    selectors:
+      article_links: "a.story-link"      # selector on the LISTING page
+      title: "h1.headline"               # selectors below are on the ARTICLE page
+      content: "div.article-body p"
+      date: "time.published"
+      date_attr: "datetime"              # optional: read an attribute instead of inner text
+      category: "span.section-label"
+
+news_api:
+  enabled: false                   # set true once NEWSAPI_KEY is set in .env
+  language: "en"
+  page_size: 50
+  categories: ["general", "business", "technology"]
+  queries: ["Pakistan"]
+
+google_trends:
+  enabled: true
+  # ISO-3166-1 alpha-2 country code (e.g. "PK", "US", "GB") -- required by
+  # trendspyg, the library that replaced pytrends below. The old long-form
+  # name ("pakistan") was a pytrends-ism and won't work here.
+  country: "PK"
+  language: "ur"
+
+social_media:
+  enabled: false                   # set true to enable Twitter/X collection
+  platform: "twitter"
+  limit: 50
+  queries:
+    - "Pakistan news"
+
+manual_input:
+  enabled: true
+  folder: "data/manual_input"
