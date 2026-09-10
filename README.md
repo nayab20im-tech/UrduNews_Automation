@@ -14,19 +14,7 @@ videos, subtitles, thumbnails, and automated distribution.
 
 ### 🖼️ Architecture Diagram
 
-> **IMAGE PLACEHOLDER**
->
-> **\[ Insert Complete System Architecture Image Here \]**
->
-> Replace this placeholder with your final architecture diagram.
-
-```{=html}
-<!--
-When the final image is available, replace the placeholder above with:
-
-![AI-Powered Urdu News Channel - Complete System Architecture](architecture.png)
--->
-```
+![AI-Powered Urdu News Channel - Complete System Architecture](architecture.jpeg)
 
 ------------------------------------------------------------------------
 
